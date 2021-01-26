@@ -1,0 +1,348 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (España)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Avance,Arial,28,&H000D00D3,&H000000FF,&H00060503,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0100,1
+Style: Gen_Next,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00060503,&H00060503,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0110,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,9,0020,0040,0020,1
+Style: Cart_Location,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,1,1,2,0020,0020,0090,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.48,0:00:05.78,Gen_Main,Rimuru,0000,0000,0000,,Alice Rondo.
+Dialogue: 0,0:00:05.94,0:00:07.00,Gen_Main,Alice,0000,0000,0000,,¡Aquí!
+Dialogue: 0,0:00:07.15,0:00:08.54,Gen_Main,Rimuru,0000,0000,0000,,Chloe Aubert.
+Dialogue: 0,0:00:08.69,0:00:09.72,Gen_Main,Chloe,0000,0000,0000,,Aquí.
+Dialogue: 0,0:00:10.13,0:00:12.21,Gen_Main,Rimuru,0000,0000,0000,,Bien, todos estáis presentes.
+Dialogue: 0,0:00:12.36,0:00:13.79,Gen_Main,Rimuru,0000,0000,0000,,Como ya os había dicho,
+Dialogue: 0,0:00:13.95,0:00:16.45,Gen_Main,Rimuru,0000,0000,0000,,dejaré la academia\Ncuando termine el semestre.
+Dialogue: 0,0:00:17.74,0:00:18.90,Gen_Main,Chloe,0000,0000,0000,,Maestro…
+Dialogue: 0,0:00:20.12,0:00:22.36,Gen_Main,Rimuru,0000,0000,0000,,No pongáis esas caras.
+Dialogue: 0,0:00:22.54,0:00:24.46,Gen_Main,Rimuru,0000,0000,0000,,Vendré a veros de vez en cuando.
+Dialogue: 0,0:00:24.79,0:00:26.75,Gen_Main,Kenya,0000,0000,0000,,Bah. Ni te molestes.
+Dialogue: 0,0:00:26.92,0:00:29.34,Gen_Main,Alice,0000,0000,0000,,¡Eso! Será un alivio que se vaya.
+Dialogue: 0,0:00:29.50,0:00:31.22,Gen_Main,Ryota,0000,0000,0000,,¿Por qué os hacéis los duros?
+Dialogue: 0,0:00:31.38,0:00:33.34,Gen_Main,Gale,0000,0000,0000,,¿Es que no podéis ser sinceros?
+Dialogue: 0,0:00:33.51,0:00:36.55,Gen_Main,Chloe,0000,0000,0000,,Maestro Rimuru,\Ntiene que venir, ¿de acuerdo?
+Dialogue: 0,0:00:36.72,0:00:38.44,Gen_Main,Rimuru,0000,0000,0000,,Sí, por supuesto.
+Dialogue: 0,0:00:38.60,0:00:41.56,Gen_Main,Rimuru,0000,0000,0000,,Aun así, aún nos queda\Nmás de un mes juntos.
+Dialogue: 0,0:00:41.72,0:00:45.46,Gen_Main,Rimuru,0000,0000,0000,,Además, como tenéis que aprobar\Nlos exámenes finales,
+Dialogue: 0,0:00:45.60,0:00:47.06,Gen_Main,Rimuru,0000,0000,0000,,más os vale estudiar.
+Dialogue: 0,0:00:47.23,0:00:49.76,Gen_Main,Kenya,0000,0000,0000,,Qué rollo, ¿exámenes finales?
+Dialogue: 0,0:00:50.69,0:00:52.57,Gen_Main,Tiss,0000,0000,0000,,Maestro Rimuru, ya estoy aquí…
+Dialogue: 0,0:00:52.90,0:00:55.68,Gen_Main,Rimuru,0000,0000,0000,,¿Ya es hora de la clase\Nde la maestra Tiss?
+Dialogue: 0,0:00:58.53,0:00:59.46,Gen_Main,Rimuru,0000,0000,0000,,¡Adelante!
+Dialogue: 0,0:00:59.99,0:01:03.29,Gen_Main,Rimuru,0000,0000,0000,,Ni se os ocurra darle problemas\Na la maestra Tiss, ¿entendido?
+Dialogue: 0,0:01:03.45,0:01:05.76,Gen_Main,Kenya,0000,0000,0000,,Jamás le daríamos problemas.
+Dialogue: 0,0:01:05.92,0:01:09.20,Gen_Main,Gale,0000,0000,0000,,La maestra Tiss nos acompañó a Guratol.
+Dialogue: 0,0:01:09.38,0:01:11.30,Gen_Main,Gale,0000,0000,0000,,Ahora nos llevamos muy bien.
+Dialogue: 0,0:01:12.63,0:01:14.80,Gen_Main,Tiss,0000,0000,0000,,Sí, son muy buenos chicos.
+Dialogue: 0,0:01:15.30,0:01:16.99,Gen_Main,Rimuru,0000,0000,0000,,Conque buenos, ¿eh?
+Dialogue: 0,0:01:21.76,0:01:25.18,Gen_Main,Rimuru,0000,0000,0000,,-Maestra Tiss, quedan en tus manos.\N-Claro.
+Dialogue: 0,0:01:25.35,0:01:27.46,Gen_Main,Ryota,0000,0000,0000,,¿Qué vas a hacer tú, maestro?
+Dialogue: 0,0:01:27.98,0:01:29.81,Gen_Main,Alice,0000,0000,0000,,Seguro que echarse una siesta.
+Dialogue: 0,0:01:29.98,0:01:31.21,Gen_Main,Rimuru,0000,0000,0000,,No, no, no.
+Dialogue: 0,0:01:31.36,0:01:34.90,Gen_Main,Rimuru,0000,0000,0000,,A pesar de lo que aparento,\Nestoy muy ocupado, Alice.
+Dialogue: 0,0:01:35.28,0:01:36.77,Gen_Main,Rimuru,0000,0000,0000,,¡Nos vemos, chicos!
+Dialogue: 0,0:01:37.49,0:01:40.27,Gen_Main,Tiss,0000,0000,0000,,¡Hasta luego, maestro Rimuru!
+Dialogue: 0,0:01:41.95,0:01:44.23,Gen_Main,Tiss,0000,0000,0000,,Bueno, que comience la clase.
+Dialogue: 0,0:01:44.41,0:01:45.44,Gen_Main,Kids,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:01:47.96,0:01:50.88,Gen_Main,Rimuru,0000,0000,0000,,Parece que se llevan bastante bien.
+Dialogue: 0,0:01:51.04,0:01:52.09,Gen_Main,Ranga,0000,0000,0000,,Sí.
+Dialogue: 0,0:01:52.80,0:01:56.60,Gen_Main,Rimuru,0000,0000,0000,,Seguro que puedo confiar\Nen ella cuando me vaya.
+Dialogue: 0,0:01:56.78,0:01:57.88,Gen_Main,Rimuru,0000,0000,0000,,Y ahora…
+Dialogue: 0,0:02:02.14,0:02:04.71,Gen_Italics,Rimuru,0000,0000,0000,,Así es, estoy muy ocupado.
+Dialogue: 0,0:02:04.89,0:02:08.14,Gen_Italics,Rimuru,0000,0000,0000,,No solo tengo que encargarme\Nde los niños de la academia,
+Dialogue: 0,0:02:08.31,0:02:12.89,Gen_Italics,Rimuru,0000,0000,0000,,también debo hacer mucho por Tempest,\Nnuestra nación de monstruos.
+Dialogue: 0,0:02:13.40,0:02:20.26,Gen_Italics,Rimuru,0000,0000,0000,,Menos mal que aprendí Traslado Espacial\Ntras analizar al espíritu espacial.
+Dialogue: 0,0:02:22.83,0:02:26.41,Gen_Main,Rimuru,0000,0000,0000,,Sí, parece que será\Notro día de paz en Tempest.
+Dialogue: 0,0:02:27.91,0:02:31.92,Gen_Italics,Rimuru,0000,0000,0000,,Soy Rimuru Tempest, un pequeño slime.
+Dialogue: 0,0:02:34.46,0:02:37.90,Gen_Italics,Rimuru,0000,0000,0000,,Cuando aún era humano,\Nme apuñalaron de repente
+Dialogue: 0,0:02:38.05,0:02:39.84,Gen_Italics,Rimuru,0000,0000,0000,,y creí que ese sería mi final…
+Dialogue: 0,0:02:44.31,0:02:47.55,Gen_Italics,Rimuru,0000,0000,0000,,pero me reencarné en este mundo\Ncomo un slime,
+Dialogue: 0,0:02:56.73,0:02:59.83,Gen_Italics,Rimuru,0000,0000,0000,,me hice amigo de Verudora,\Nel Dragón de la Tormenta,
+Dialogue: 0,0:03:09.58,0:03:11.96,Gen_Italics,Rimuru,0000,0000,0000,,fundé una nación de monstruos
+Dialogue: 0,0:03:23.72,0:03:26.14,Gen_Italics,Rimuru,0000,0000,0000,,y luché para proteger a sus habitantes.
+Dialogue: 0,0:03:34.98,0:03:36.77,Gen_Italics,Rimuru,0000,0000,0000,,El único arrepentimiento de Shizu…
+Dialogue: 0,0:03:48.24,0:03:49.66,Gen_Italics,Rimuru,0000,0000,0000,,eran los pequeños
+Dialogue: 0,0:03:51.91,0:03:54.32,Gen_Italics,Rimuru,0000,0000,0000,,y conseguí salvarlos.
+Dialogue: 0,0:03:58.13,0:04:00.03,Gen_Italics,Rimuru,0000,0000,0000,,Ya puede descansar en paz.
+Dialogue: 0,0:04:09.27,0:04:12.16,Gen_Italics,Rimuru,0000,0000,0000,,Mi época como maestro\Nestá a punto de acabarse.
+Dialogue: 0,0:04:12.31,0:04:16.33,Gen_Italics,Rimuru,0000,0000,0000,,Aunque he de admitir\Nque ha habido altibajos
+Dialogue: 0,0:04:16.48,0:04:19.11,Gen_Italics,Rimuru,0000,0000,0000,,y algún que otro problema…
+Dialogue: 0,0:04:19.28,0:04:23.44,Gen_Main,Rimuru,0000,0000,0000,,¿Sabes, Ranga?\NEspero que esta paz dure para siempre.
+Dialogue: 0,0:04:46.59,0:04:48.30,Cart_A_Ari,Title,0000,0000,0000,,That {\c&H471e13&}Time {\c&Hcd9612&}I Got {\c&H471e13&}Reincarnated {\c&Hcd9612&}as a {\c&H7e4f0a&}Slime
+Dialogue: 0,0:06:06.97,0:06:10.27,Gen_Italics,Rimuru,0000,0000,0000,,Me vi envuelto en un embrollo\Ncon el Rey Demonio Carrion,
+Dialogue: 0,0:06:07.09,0:06:11.97,Cart_TitleEp,Title,0000,0000,0000,,{\fad(1200,500)}Episodio 25: La ajetreada vida de Rimuru
+Dialogue: 0,0:06:10.43,0:06:13.78,Gen_Italics,Rimuru,0000,0000,0000,,pero firmamos un pacto de no agresión\Ny cesamos todas las hostilidades.
+Dialogue: 0,0:06:14.26,0:06:16.84,Gen_Italics,Rimuru,0000,0000,0000,,Luego, acepté la propuesta de Carrion
+Dialogue: 0,0:06:17.02,0:06:21.06,Gen_Italics,Rimuru,0000,0000,0000,,de que la Federación Jura Tempest\Ny el Reino Animal de Eurazania
+Dialogue: 0,0:06:17.18,0:06:23.77,Cart_C_Tre,Text,0000,0000,0000,,{\fs14\pos(459,97)\c&H132944&\shad0\blur1\fad(500,0)\bord1\3c&H65B7C3&}Federación Jura Tempest
+Dialogue: 0,0:06:18.89,0:06:23.77,Cart_C_Tre,Text,0000,0000,0000,,{\fs14\c&H132944&\shad0\blur1\fad(500,0)\bord1\3c&H65B7C3&\pos(589,201)}Reino Animal\Nde Eurazania
+Dialogue: 0,0:06:21.23,0:06:23.77,Gen_Italics,Rimuru,0000,0000,0000,,se enviaran delegaciones mutuamente.
+Dialogue: 0,0:06:24.53,0:06:28.78,Gen_Italics,Rimuru,0000,0000,0000,,Benimaru dirigirá nuestra delegación\Nmientras que Rigur será su asistente.
+Dialogue: 0,0:06:29.57,0:06:32.19,Gen_Main,Rigurd,0000,0000,0000,,¡Cómo has madurado, Rigur!
+Dialogue: 0,0:06:33.78,0:06:37.97,Gen_Italics,Rimuru,0000,0000,0000,,Hoy es el día histórico\Nen el que partirá nuestra delegación,
+Dialogue: 0,0:06:38.96,0:06:42.29,Gen_Italics,Rimuru,0000,0000,0000,,por lo que volví a Tempest\Npara despedirme de ellos.
+Dialogue: 0,0:06:48.17,0:06:50.22,Gen_Main,Rimuru,0000,0000,0000,,Vaya, no está nada mal.
+Dialogue: 0,0:06:54.76,0:06:58.05,Gen_Main,Rimuru,0000,0000,0000,,Esta forma no es nada fácil de mantener…
+Dialogue: 0,0:06:58.23,0:07:00.94,Gen_Main,Shion,0000,0000,0000,,¡Gran Rimuru, sentimos la demora!
+Dialogue: 0,0:07:01.35,0:07:04.94,Gen_Main,Shuna,0000,0000,0000,,Elegimos varios atuendos ceremoniales\Npara que se pruebe.
+Dialogue: 0,0:07:05.15,0:07:06.55,Gen_Main,Rimuru,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:07:06.69,0:07:09.00,Gen_Main,Rimuru,0000,0000,0000,,Pues supongo que debería probármelos.
+Dialogue: 0,0:07:18.50,0:07:21.42,Gen_Main,Rimuru,0000,0000,0000,,No creo que sea lo más adecuado…
+Dialogue: 0,0:07:21.92,0:07:24.13,Gen_Main,Shuna,0000,0000,0000,,¿Y qué hay de este?
+Dialogue: 0,0:07:25.67,0:07:28.63,Gen_Main,Rimuru,0000,0000,0000,,¿Qué? No sé qué decir…
+Dialogue: 0,0:07:29.30,0:07:31.30,Gen_Main,Shion,0000,0000,0000,,Yo le recomiendo este.
+Dialogue: 0,0:07:35.51,0:07:37.07,Gen_Main,Shion,0000,0000,0000,,¡Está magnífico, Gran Rimuru!
+Dialogue: 0,0:07:37.22,0:07:39.06,Gen_Main,Shuna,0000,0000,0000,,¡Le queda estupendamente!
+Dialogue: 0,0:07:39.22,0:07:41.31,Gen_Main,Rimuru,0000,0000,0000,,Veréis, Shuna, Shion…
+Dialogue: 0,0:07:43.65,0:07:47.94,Gen_Main,Rimuru,0000,0000,0000,,Creo que debería llevar\Nalgo mas sobrio y solemne.
+Dialogue: 0,0:07:48.32,0:07:51.01,Gen_Main,Shion,0000,0000,0000,,¿Sobrio y solemne?
+Dialogue: 0,0:07:51.15,0:07:54.32,Gen_Main,Rimuru,0000,0000,0000,,La delegación es muy importante\Npara el futuro de Tempest.
+Dialogue: 0,0:07:54.49,0:07:56.70,Gen_Main,Rimuru,0000,0000,0000,,Quiero despedirme como corresponde.
+Dialogue: 0,0:07:57.49,0:07:58.63,Gen_Main,Shion,0000,0000,0000,,Comprendo.
+Dialogue: 0,0:07:59.29,0:08:02.46,Gen_Main,Shuna,0000,0000,0000,,Tenemos cosas más sobrias y solemnes.
+Dialogue: 0,0:08:09.51,0:08:11.01,Gen_Main,Guy,0000,0000,0000,,Venga, va a empezar.
+Dialogue: 0,0:08:12.59,0:08:14.01,Gen_Main,All,0000,0000,0000,,¡Gran Rimuru!
+Dialogue: 0,0:08:18.51,0:08:21.92,Gen_Main,Gobta,0000,0000,0000,,¡El Gran Rimuru está increíble!\N¡¿No, Gobzo?!
+Dialogue: 0,0:08:22.89,0:08:24.63,Gen_Main,Gabiru,0000,0000,0000,,¡Está genial!
+Dialogue: 0,0:08:24.81,0:08:26.51,Gen_Main,Lizard,0000,0000,0000,,¡Usted también, señor Gabiru!
+Dialogue: 0,0:08:26.69,0:08:28.19,Gen_Main,Lizard,0000,0000,0000,,-¡En efecto!\N-Nada mal.
+Dialogue: 0,0:08:28.36,0:08:30.68,Gen_Main,Ranga,0000,0000,0000,,¡Amo, está maravilloso!
+Dialogue: 0,0:08:30.86,0:08:32.78,Gen_Main,Shion,0000,0000,0000,,¡Que todos guarden silencio!
+Dialogue: 0,0:08:43.29,0:08:46.79,Gen_Main,Rimuru,0000,0000,0000,,Os deseo lo mejor\Nen el cumplimiento de vuestra misión.
+Dialogue: 0,0:08:52.46,0:08:53.84,Gen_Main,Shuna,0000,0000,0000,,¿Eso es todo?
+Dialogue: 0,0:08:54.01,0:08:55.74,Gen_Italics,Rimuru,0000,0000,0000,,¡¿Ha sido demasiado corto?!
+Dialogue: 0,0:08:57.59,0:08:59.39,Gen_Main,Rimuru,0000,0000,0000,,Bueno, diré algo más.
+Dialogue: 0,0:09:01.31,0:09:05.22,Gen_Main,Rimuru,0000,0000,0000,,Tempest se ha vuelto\Nmucho más próspera de lo que era antes,
+Dialogue: 0,0:09:05.39,0:09:07.69,Gen_Main,Rimuru,0000,0000,0000,,pero sigue siendo una nación joven.
+Dialogue: 0,0:09:08.69,0:09:11.99,Gen_Main,Rimuru,0000,0000,0000,,Si logramos establecer\Nuna relación favorable con Eurazania,
+Dialogue: 0,0:09:12.15,0:09:14.41,Gen_Main,Rimuru,0000,0000,0000,,aprenderemos a aprovechar\Nnuestros talentos
+Dialogue: 0,0:09:14.57,0:09:17.74,Gen_Main,Rimuru,0000,0000,0000,,y haremos que nuestra\Nbella nación prospere aún más.
+Dialogue: 0,0:09:18.07,0:09:19.20,Gen_Main,Rimuru,0000,0000,0000,,Sin embargo…
+Dialogue: 0,0:09:19.70,0:09:22.41,Gen_Main,Rimuru,0000,0000,0000,,El Rey Demonio Carrion,\Nsoberano de Eurazania,
+Dialogue: 0,0:09:22.58,0:09:26.04,Gen_Main,Rimuru,0000,0000,0000,,conocido como el Amo de las Bestias,\Nes un ser muy belicoso.
+Dialogue: 0,0:09:26.21,0:09:29.01,Gen_Main,Rimuru,0000,0000,0000,,Seguro que piensa\Nque la fuerza lo es todo.
+Dialogue: 0,0:09:29.71,0:09:33.03,Gen_Main,Rimuru,0000,0000,0000,,Si pensáis que va a estallar un conflicto,\Nos pido que volváis.
+Dialogue: 0,0:09:34.01,0:09:36.02,Gen_Main,Rimuru,0000,0000,0000,,No pretendemos luchar.
+Dialogue: 0,0:09:36.17,0:09:41.32,Gen_Main,Rimuru,0000,0000,0000,,Queremos saber si podemos establecer\Nrelaciones o cortarlas por completo.
+Dialogue: 0,0:09:41.97,0:09:46.31,Gen_Main,Rimuru,0000,0000,0000,,Aunque sea por el bien de Tempest,\Nno quiero obligar a nadie a sufrir.
+Dialogue: 0,0:09:46.69,0:09:47.81,Gen_Main,Rimuru,0000,0000,0000,,Cuento con vosotros.
+Dialogue: 0,0:09:48.06,0:09:49.05,Gen_Main,All,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:09:52.40,0:09:56.66,Gen_Main,Gabiru,0000,0000,0000,,¡Gran Rimuru! ¡Me conmueve!
+Dialogue: 0,0:09:56.84,0:09:57.74,Gen_Main,Lizard,0000,0000,0000,,Ya, ya…
+Dialogue: 0,0:10:00.91,0:10:04.03,Gen_Main,Rimuru,0000,0000,0000,,A decir verdad,\Ndebería ser yo quien fuera.
+Dialogue: 0,0:10:04.20,0:10:07.06,Gen_Main,Benimaru,0000,0000,0000,,No, mientras no confirmemos\Nque es seguro,
+Dialogue: 0,0:10:07.21,0:10:09.71,Gen_Main,Benimaru,0000,0000,0000,,no debería ir al territorio\Nde un Rey Demonio.
+Dialogue: 0,0:10:09.96,0:10:14.42,Gen_Main,Benimaru,0000,0000,0000,,Juzgaré con mis propios ojos si se puede\Nconfiar en el Rey Demonio Carrion.
+Dialogue: 0,0:10:14.54,0:10:15.46,Gen_Main,Rimuru,0000,0000,0000,,Gracias.
+Dialogue: 0,0:10:15.76,0:10:18.97,Gen_Main,Rimuru,0000,0000,0000,,Escucha, hagas lo que hagas,\Nno te pelees con nadie.
+Dialogue: 0,0:10:19.13,0:10:20.66,Gen_Main,Benimaru,0000,0000,0000,,No se preocupe.
+Dialogue: 0,0:10:20.80,0:10:24.06,Gen_Main,Rimuru,0000,0000,0000,,¡Inspiras confianza!\N¡Cuánto has crecido, Benimaru!
+Dialogue: 0,0:10:24.60,0:10:26.52,Gen_Main,Rimuru,0000,0000,0000,,Ánimo a vosotros también, Rigur.
+Dialogue: 0,0:10:26.68,0:10:29.06,Gen_Main,Rigur,0000,0000,0000,,Gracias, aprenderemos cuanto podamos.
+Dialogue: 0,0:10:31.23,0:10:32.87,Gen_Main,Benimaru,0000,0000,0000,,Nos ponemos en marcha.
+Dialogue: 0,0:10:39.40,0:10:41.67,Gen_Main,Gobta,0000,0000,0000,,¡Divertíos!
+Dialogue: 0,0:10:41.82,0:10:43.25,Gen_Main,Gabiru,0000,0000,0000,,¡Que os vaya bien!
+Dialogue: 0,0:10:43.41,0:10:44.83,Gen_Main,Lizard,0000,0000,0000,,¡Ánimo!
+Dialogue: 0,0:10:44.99,0:10:47.82,Gen_Main,Shuna,0000,0000,0000,,-¡Ten cuidado, hermano!\N-¡Buena suerte, chicos!
+Dialogue: 0,0:10:48.37,0:10:51.83,Gen_Italics,Rimuru,0000,0000,0000,,Dan los primeros pasos\Nhacia el futuro que ansiamos.
+Dialogue: 0,0:10:52.17,0:10:54.65,Gen_Italics,Rimuru,0000,0000,0000,,Espero que forjemos\Nrelaciones diplomáticas
+Dialogue: 0,0:10:54.80,0:10:58.07,Gen_Italics,Rimuru,0000,0000,0000,,para que ambas naciones\Nse beneficien y desarrollen.
+Dialogue: 0,0:10:59.93,0:11:04.00,Gen_Italics,Rimuru,0000,0000,0000,,Y así partió la primera delegación\Nde nuestra nación.
+Dialogue: 0,0:11:05.26,0:11:10.60,Gen_Italics,Rimuru,0000,0000,0000,,Ahora tenemos que prepararnos para\Nrecibir a la delegación de Eurazania.
+Dialogue: 0,0:11:12.77,0:11:16.71,Gen_Main,Rimuru,0000,0000,0000,,Muy bien, parece que el salón\Nde recepción estará listo a tiempo.
+Dialogue: 0,0:11:16.86,0:11:19.11,Gen_Main,Rimuru,0000,0000,0000,,-¿Van bien los cocineros?\N-Sí.
+Dialogue: 0,0:11:19.74,0:11:21.72,Gen_Main,Shion,0000,0000,0000,,La princesa Shuna\Nlos está instruyendo.
+Dialogue: 0,0:11:21.86,0:11:24.55,Gen_Main,Shion,0000,0000,0000,,Aprenden rápido\Ny se llevan de maravilla.
+Dialogue: 0,0:11:25.41,0:11:29.10,Gen_Main,Shuna,0000,0000,0000,,Sí, creo que necesita\Nun poquito más de sal.
+Dialogue: 0,0:11:29.79,0:11:32.32,Gen_Main,Shion,0000,0000,0000,,En cuanto al personal de la recepción,
+Dialogue: 0,0:11:32.50,0:11:34.63,Gen_Main,Shion,0000,0000,0000,,Vesta los está formando.
+Dialogue: 0,0:11:35.00,0:11:39.13,Gen_Main,Rimuru,0000,0000,0000,,La etiqueta es uno de sus fuertes.\NNo esperaría menos de un noble.
+Dialogue: 0,0:11:39.67,0:11:41.75,Gen_Main,Shion,0000,0000,0000,,Y también…
+Dialogue: 0,0:11:41.93,0:11:45.14,Gen_Main,Shion,0000,0000,0000,,Ya se ha decidido la fecha\Nen la que visitará Dwargon.
+Dialogue: 0,0:11:45.30,0:11:47.31,Gen_Main,Rimuru,0000,0000,0000,,Ah, sí, tengo que ir a ver al rey Gazel
+Dialogue: 0,0:11:47.47,0:11:52.14,Gen_Main,Rimuru,0000,0000,0000,,para darle las gracias por haber\Nestablecido relaciones con Tempest.
+Dialogue: 0,0:11:52.44,0:11:56.40,Gen_Main,Rimuru,0000,0000,0000,,Como estará enfadado\Npor el incidente de Milim y Charybdis,
+Dialogue: 0,0:11:56.57,0:11:58.57,Gen_Main,Rimuru,0000,0000,0000,,también tendré que dar explicaciones.
+Dialogue: 0,0:12:01.90,0:12:03.16,Gen_Main,Rimuru,0000,0000,0000,,¡Treyni!
+Dialogue: 0,0:12:04.70,0:12:07.68,Gen_Main,Treyni,0000,0000,0000,,Saludos, Gran Rimuru.
+Dialogue: 0,0:12:08.08,0:12:10.56,Gen_Main,Shion,0000,0000,0000,,¿Qué haces aquí? ¿Ha pasado algo?
+Dialogue: 0,0:12:10.74,0:12:11.77,Gen_Main,Treyni,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:11.91,0:12:16.55,Gen_Main,Treyni,0000,0000,0000,,La delegación de Eurazania\Nha entrado en el Gran Bosque de Jura.
+Dialogue: 0,0:12:16.71,0:12:17.92,Gen_Main,Treyni,0000,0000,0000,,Quería informaros.
+Dialogue: 0,0:12:18.09,0:12:19.46,Gen_Main,Rimuru,0000,0000,0000,,Ya han llegado, ¿eh?
+Dialogue: 0,0:12:20.01,0:12:23.84,Gen_Main,Treyni,0000,0000,0000,,Deberían llegar a Tempest\Nen unos cinco días.
+Dialogue: 0,0:12:24.01,0:12:25.80,Gen_Main,Rimuru,0000,0000,0000,,¡Gracias por avisarme!
+Dialogue: 0,0:12:26.22,0:12:28.44,Gen_Main,Treyni,0000,0000,0000,,Es lo mínimo que podría hacer.
+Dialogue: 0,0:12:28.60,0:12:32.75,Gen_Main,Treyni,0000,0000,0000,,Por último, puede que ellos\Nlleguen antes que la delegación.
+Dialogue: 0,0:12:32.89,0:12:34.11,Gen_Main,Rimuru,0000,0000,0000,,¿"Ellos"?
+Dialogue: 0,0:12:34.56,0:12:36.67,Gen_Main,Treyni,0000,0000,0000,,Sí, con el campeón…
+Dialogue: 0,0:12:42.24,0:12:44.57,Gen_Main,Older,0000,0000,0000,,Vámonos, está anocheciendo.
+Dialogue: 0,0:12:44.78,0:12:45.91,Gen_Main,Younger,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:48.37,0:12:50.70,Gen_Main,Mushroom,0000,0000,0000,,Cham, cham, cham…
+Dialogue: 0,0:12:50.99,0:12:52.50,Gen_Main,Mushroom,0000,0000,0000,,¡Champi!
+Dialogue: 0,0:12:52.70,0:12:53.71,Gen_Main,Younger,0000,0000,0000,,¡Qué mono es!
+Dialogue: 0,0:13:00.42,0:13:01.58,Gen_Main,Youm,0000,0000,0000,,¡Quieta!
+Dialogue: 0,0:13:08.76,0:13:10.70,Gen_Italics,Rimuru,0000,0000,0000,,Youm y sus compañeros.
+Dialogue: 0,0:13:10.85,0:13:13.35,Gen_Italics,Rimuru,0000,0000,0000,,Solían ser una pandilla de rufianes,
+Dialogue: 0,0:13:13.52,0:13:17.77,Gen_Italics,Rimuru,0000,0000,0000,,pero los convertí en los héroes\Nque abatieron al Orc Lord por nosotros.
+Dialogue: 0,0:13:18.86,0:13:19.96,Gen_Main,Younger,0000,0000,0000,,Increíble…
+Dialogue: 0,0:13:20.11,0:13:22.22,Gen_Italics,Rimuru,0000,0000,0000,,Si se supiera que nosotros lo vencimos,
+Dialogue: 0,0:13:22.40,0:13:24.88,Gen_Italics,Rimuru,0000,0000,0000,,llamaríamos la atención\Nde los seres humanos.
+Dialogue: 0,0:13:25.32,0:13:26.57,Gen_Main,Rommel,0000,0000,0000,,¿Te encuentras bien?
+Dialogue: 0,0:13:26.74,0:13:28.74,Gen_Main,Older,0000,0000,0000,,Sí, muchísimas gracias.
+Dialogue: 0,0:13:30.03,0:13:32.46,Gen_Main,Younger,0000,0000,0000,,Esto… ¡Gracias!
+Dialogue: 0,0:13:32.66,0:13:35.50,Gen_Main,Youm,0000,0000,0000,,Tened cuidado,\Nhay monstruos muy malos por aquí.
+Dialogue: 0,0:13:35.91,0:13:38.00,Gen_Main,Younger,0000,0000,0000,,¡Tu espada es genial!
+Dialogue: 0,0:13:38.17,0:13:39.22,Gen_Main,Youm,0000,0000,0000,,Pues claro.
+Dialogue: 0,0:13:40.75,0:13:44.89,Gen_Main,Youm,0000,0000,0000,,Me la forjaron en Tempest,\Nuna nación de monstruos buenos.
+Dialogue: 0,0:13:45.05,0:13:50.76,Gen_Italics,Rimuru,0000,0000,0000,,Recorren el mundo para hacer saber\Nque somos monstruos amistosos.
+Dialogue: 0,0:13:59.90,0:14:01.89,Gen_Italics,Rimuru,0000,0000,0000,,Y desde entonces
+Dialogue: 0,0:14:20.92,0:14:24.08,Gen_Italics,Rimuru,0000,0000,0000,,mi día a día fue muy ajetreado
+Dialogue: 0,0:14:36.77,0:14:40.56,Gen_Italics,Rimuru,0000,0000,0000,,hasta el día en el que recibimos\Na la delegación de Eurazania.
+Dialogue: 0,0:14:45.32,0:14:47.19,Gen_Main,Youm,0000,0000,0000,,Está bastante bueno.
+Dialogue: 0,0:14:47.36,0:14:50.83,Gen_Main,Kajir,0000,0000,0000,,Qué bueno.\NJamás había probado algo como esto.
+Dialogue: 0,0:14:51.57,0:14:53.91,Gen_Main,Rimuru,0000,0000,0000,,¿A que no? Se llama brandy.
+Dialogue: 0,0:14:54.37,0:14:56.53,Gen_Main,Youm,0000,0000,0000,,¿Brandy?
+Dialogue: 0,0:14:56.70,0:14:59.54,Gen_Main,Rimuru,0000,0000,0000,,Lo encargué para nuestros invitados.
+Dialogue: 0,0:15:00.00,0:15:01.96,Gen_Main,Youm,0000,0000,0000,,Ya veo, ¿viene gente?
+Dialogue: 0,0:15:02.13,0:15:05.96,Gen_Main,Rimuru,0000,0000,0000,,Sí, mañana llega la delegación\Ndel Rey Demonio Carrion.
+Dialogue: 0,0:15:07.71,0:15:09.51,Gen_Main,Rimuru,0000,0000,0000,,¡¿Ha sido a propósito?!
+Dialogue: 0,0:15:11.05,0:15:14.35,Gen_Main,Youm,0000,0000,0000,,¡¿El Rey Demonio Carrion?!\N¡¿Y cómo narices ha pasado?!
+Dialogue: 0,0:15:16.47,0:15:18.62,Gen_Main,Rimuru,0000,0000,0000,,Es una larga historia…
+Dialogue: 0,0:15:20.10,0:15:22.10,Gen_Main,Shuna,0000,0000,0000,,Qué agradable.
+Dialogue: 0,0:15:27.69,0:15:28.85,Gen_Main,Youm,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:15:29.11,0:15:31.74,Gen_Main,Rimuru,0000,0000,0000,,Podríamos establecer\Nrelaciones diplomáticas.
+Dialogue: 0,0:15:32.03,0:15:33.49,Gen_Main,Youm,0000,0000,0000,,Comprendo.
+Dialogue: 0,0:15:33.66,0:15:35.91,Gen_Main,Youm,0000,0000,0000,,Pero ¿con un Rey Demonio?
+Dialogue: 0,0:15:36.08,0:15:38.65,Gen_Main,Youm,0000,0000,0000,,Seguro que su delegación da miedo.
+Dialogue: 0,0:15:38.83,0:15:41.87,Gen_Main,Rimuru,0000,0000,0000,,Ya veremos,\Npero el objetivo no es pelearnos.
+Dialogue: 0,0:15:42.37,0:15:46.59,Gen_Main,Youm,0000,0000,0000,,Pero ha enviado a Benimaru\Npor si surgiera algún imprevisto, ¿no?
+Dialogue: 0,0:15:46.75,0:15:49.51,Gen_Main,Youm,0000,0000,0000,,¿No se les habrá ocurrido\Nlo mismo a ellos?
+Dialogue: 0,0:15:50.17,0:15:51.97,Gen_Main,Rimuru,0000,0000,0000,,Aunque así sea, da igual.
+Dialogue: 0,0:15:52.13,0:15:54.84,Gen_Main,Rimuru,0000,0000,0000,,No quiero meter la pata\Ny fastidiar esta oportunidad.
+Dialogue: 0,0:15:55.22,0:15:56.72,Gen_Main,Youm,0000,0000,0000,,Eso es cierto.
+Dialogue: 0,0:15:58.01,0:16:00.85,Gen_Main,Rimuru,0000,0000,0000,,Así que no os peleéis con los delegados.
+Dialogue: 0,0:16:01.02,0:16:06.00,Gen_Main,Youm,0000,0000,0000,,Sé que mis chicos son algo idiotas,\Npero nunca cometerían tal idiotez.
+Dialogue: 0,0:16:06.15,0:16:08.22,Gen_Main,Youm,0000,0000,0000,,-¿Verdad?\N-Y que lo digas.
+Dialogue: 0,0:16:09.28,0:16:10.61,Gen_Main,Rimuru,0000,0000,0000,,Pues perfecto.
+Dialogue: 0,0:16:10.99,0:16:13.45,Gen_Main,Rimuru,0000,0000,0000,,Por cierto, Hakurou quería verte.
+Dialogue: 0,0:16:13.74,0:16:14.82,Gen_Main,Youm,0000,0000,0000,,¡¿Mi maestro?!
+Dialogue: 0,0:16:15.37,0:16:17.62,Gen_Main,Rimuru,0000,0000,0000,,Quiere ver si te has oxidado.
+Dialogue: 0,0:16:18.91,0:16:21.04,Gen_Main,Youm,0000,0000,0000,,Se me ha pasado el pedo.
+Dialogue: 0,0:16:24.87,0:16:27.27,Gen_Italics,Rimuru,0000,0000,0000,,Y al día siguiente…
+Dialogue: 0,0:16:37.55,0:16:38.64,Gen_Main,Rimuru,0000,0000,0000,,Ahí vienen.
+Dialogue: 0,0:16:49.27,0:16:50.77,Gen_Main,Rimuru,0000,0000,0000,,¿Carruajes?
+Dialogue: 0,0:16:50.94,0:16:53.82,Gen_Main,Rimuru,0000,0000,0000,,¿Tendrán tigres de fuerza\Nen vez de caballos de fuerza?
+Dialogue: 0,0:16:53.99,0:16:55.32,Gen_Main,Rimuru,0000,0000,0000,,Parecen carros de guerra.
+Dialogue: 0,0:16:55.49,0:16:57.21,Gen_Main,Shion,0000,0000,0000,,No son para tanto.
+Dialogue: 0,0:16:57.37,0:17:01.16,Gen_Main,Shion,0000,0000,0000,,Ante su enorme poder,\Nno intimidan en lo más mínimo.
+Dialogue: 0,0:17:01.33,0:17:04.64,Gen_Italics,Rimuru,0000,0000,0000,,¡No, no, Shion!\N¡Sí son para tanto!
+Dialogue: 0,0:17:04.79,0:17:08.71,Gen_Main,Shion,0000,0000,0000,,Y tanto adorno\Nno sirve de nada en combate.
+Dialogue: 0,0:17:08.88,0:17:10.17,Gen_Italics,Rimuru,0000,0000,0000,,¡No, no, Shion!
+Dialogue: 0,0:17:10.34,0:17:12.34,Gen_Italics,Rimuru,0000,0000,0000,,¡Aquí nadie está hablando de combate!
+Dialogue: 0,0:17:24.43,0:17:26.44,Gen_Main,Alvis,0000,0000,0000,,Es un placer conocerlo,
+Dialogue: 0,0:17:26.60,0:17:30.48,Gen_Main,Alvis,0000,0000,0000,,honorable líder de la Federación\NJura Tempest, Rimuru Tempest.
+Dialogue: 0,0:17:32.65,0:17:35.11,Gen_Main,Alvis,0000,0000,0000,,Soy Albis, Asta de Sierpe Dorada,
+Dialogue: 0,0:17:35.65,0:17:39.87,Cart_A_Tim,Text,0000,0000,0000,,{\fad(500,0)\bord1\blur1\fs16}Reino Animal de Eurazania\NTres Bestias - Asta de Sierpe Dorada\N{\fs26}Albis
+Dialogue: 0,0:17:35.78,0:17:38.86,Gen_Main,Alvis,0000,0000,0000,,una de las Tres Bestias\Ndel Rey Demonio Carrion.
+Dialogue: 0,0:17:39.87,0:17:43.38,Gen_Italics,Rimuru,0000,0000,0000,,Vaya, ¿ha enviado a sus súbditos\Nde mayor rango?
+Dialogue: 0,0:17:43.54,0:17:44.74,Gen_Main,Suphia,0000,0000,0000,,¡¿Es una broma?!
+Dialogue: 0,0:17:45.87,0:17:50.34,Gen_Main,Suphia,0000,0000,0000,,Solo he venido porque quería ver\Nqué monstruo era el líder de Tempest,
+Dialogue: 0,0:17:50.34,0:17:55.13,Cart_A_Tim,Text,0000,0000,0000,,{\fad(500,0)\bord1\blur1\fs16}Reino Animal de Eurazania\NTres Bestias\N{\fs26}Garra de Tigre Blanco
+Dialogue: 0,0:17:50.50,0:17:52.59,Gen_Main,Suphia,0000,0000,0000,,¿y resulta ser un miserable slime?
+Dialogue: 0,0:17:52.75,0:17:55.13,Gen_Main,Suphia,0000,0000,0000,,Si es una broma, es de muy mal gusto.
+Dialogue: 0,0:17:56.42,0:17:58.96,Gen_Italics,Rimuru,0000,0000,0000,,Vaya, ella también parece fuerte.
+Dialogue: 0,0:17:59.14,0:18:00.60,Gen_Main,Alvis,0000,0000,0000,,Atrás, Suphia.
+Dialogue: 0,0:18:01.18,0:18:05.62,Gen_Main,Alvis,0000,0000,0000,,Tus palabras no hacen más que manchar\Nel nombre de nuestro señor Carrion.
+Dialogue: 0,0:18:05.77,0:18:09.14,Gen_Main,Suphia,0000,0000,0000,,Cierra el pico, Albis.\NTú no me das órdenes.
+Dialogue: 0,0:18:09.31,0:18:11.44,Gen_Main,Suphia,0000,0000,0000,,Además, los enanos son una cosa,
+Dialogue: 0,0:18:11.61,0:18:13.36,Gen_Main,Suphia,0000,0000,0000,,pero ¿también hay humanos?
+Dialogue: 0,0:18:13.53,0:18:16.90,Gen_Main,Suphia,0000,0000,0000,,Quien se codee con los miserables,\Ninsolentes y cobardes humanos
+Dialogue: 0,0:18:17.07,0:18:18.95,Gen_Main,Suphia,0000,0000,0000,,es una desgracia como monstruo.
+Dialogue: 0,0:18:20.82,0:18:22.66,Gen_Main,Rimuru,0000,0000,0000,,Una afirmación bastante audaz.
+Dialogue: 0,0:18:23.20,0:18:28.16,Gen_Main,Rimuru,0000,0000,0000,,Youm es un gran amigo mío\Ny condiscípulo del mismo maestro.
+Dialogue: 0,0:18:28.33,0:18:29.79,Gen_Main,Suphia,0000,0000,0000,,¿Y qué?
+Dialogue: 0,0:18:31.58,0:18:32.79,Gen_Main,Rimuru,0000,0000,0000,,Oye, Youm…
+Dialogue: 0,0:18:32.96,0:18:35.76,Gen_Main,Rimuru,0000,0000,0000,,Te molestará que te insulte, ¿no?
+Dialogue: 0,0:18:36.38,0:18:39.47,Gen_Main,Rimuru,0000,0000,0000,,¿Y si le das una lección?\NTienes mi permiso.
+Dialogue: 0,0:18:39.97,0:18:43.35,Gen_Main,Youm,0000,0000,0000,,¡Un momento!\N¡¿Y eso de las pretensiones de paz?!
+Dialogue: 0,0:18:43.51,0:18:45.96,Gen_Main,Rimuru,0000,0000,0000,,Yo no tenía pensado buscar pelea,
+Dialogue: 0,0:18:46.14,0:18:48.85,Gen_Main,Rimuru,0000,0000,0000,,pero si empiezan ellos, la cosa cambia.
+Dialogue: 0,0:18:49.60,0:18:52.51,Gen_Main,Suphia,0000,0000,0000,,Vaya, ¿quieres pelear, humano?
+Dialogue: 0,0:18:54.40,0:18:55.81,Gen_Main,Youm,0000,0000,0000,,Pues…
+Dialogue: 0,0:18:55.98,0:18:58.16,Gen_Main,Kajir,0000,0000,0000,,¡Tú puedes, jefe!
+Dialogue: 0,0:18:58.32,0:19:00.65,Gen_Main,Kajir,0000,0000,0000,,¡No puede hablar mal de nosotros!
+Dialogue: 0,0:19:00.82,0:19:02.47,Gen_Main,Rommel,0000,0000,0000,,¡Contamos contigo, Youm!
+Dialogue: 0,0:19:04.83,0:19:06.70,Gen_Main,Youm,0000,0000,0000,,Qué remedio.
+Dialogue: 0,0:19:10.21,0:19:13.08,Gen_Main,Youm,0000,0000,0000,,Señor, luego tendrá\Nque recoger sus restos.
+Dialogue: 0,0:19:13.25,0:19:16.16,Gen_Main,Suphia,0000,0000,0000,,¡Ja! ¿Y se lo pides al slime?
+Dialogue: 0,0:19:16.34,0:19:17.38,Gen_Main,Suphia,0000,0000,0000,,No me hagas reír.
+Dialogue: 0,0:19:17.55,0:19:19.97,Gen_Main,Rimuru,0000,0000,0000,,Claro, yo me encargo… ¿Eh?
+Dialogue: 0,0:19:20.30,0:19:22.47,Gen_Main,Rimuru,0000,0000,0000,,Oye… ¿Shion?
+Dialogue: 0,0:19:22.80,0:19:27.28,Gen_Main,Shion,0000,0000,0000,,No ha hecho más que insultarlo\Ndesde que ha llegado.
+Dialogue: 0,0:19:27.81,0:19:30.48,Gen_Main,Shion,0000,0000,0000,,Me he estado conteniendo\Ntodo este tiempo,
+Dialogue: 0,0:19:30.64,0:19:33.15,Gen_Main,Shion,0000,0000,0000,,pero parece ser\Nque nunca hubo necesidad.
+Dialogue: 0,0:19:34.86,0:19:35.82,Gen_Main,Youm,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:19:36.27,0:19:37.98,Gen_Main,Youm,0000,0000,0000,,¡Un momen…! Esto…
+Dialogue: 0,0:19:38.15,0:19:40.29,Gen_Main,Shion,0000,0000,0000,,Yo seré tu oponente.
+Dialogue: 0,0:19:41.28,0:19:42.49,Gen_Main,Suphia,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:19:42.66,0:19:44.68,Gen_Main,Suphia,0000,0000,0000,,¿Y pelearás sin armas?
+Dialogue: 0,0:19:45.33,0:19:46.52,Gen_Main,Suphia,0000,0000,0000,,¡Mejor para mí!
+Dialogue: 0,0:20:15.77,0:20:18.23,Gen_Main,Rimuru,0000,0000,0000,,¿Estará bien Shion?
+Dialogue: 0,0:20:18.40,0:20:21.99,Gen_Main,Rimuru,0000,0000,0000,,Está luchando bajo los términos\Nde su oponente, sin su espada.
+Dialogue: 0,0:20:22.15,0:20:24.41,Gen_Main,Shuna,0000,0000,0000,,No se preocupe, Gran Rimuru.
+Dialogue: 0,0:20:24.57,0:20:27.41,Gen_Main,Shuna,0000,0000,0000,,Salvo usted,\Nnadie es más fuerte que Shion.
+Dialogue: 0,0:20:27.58,0:20:28.85,Gen_Main,Rimuru,0000,0000,0000,,¿Ah, sí?
+Dialogue: 0,0:20:30.95,0:20:33.54,Gen_Main,Alvis,0000,0000,0000,,Cielos, ¿qué vamos a hacer con Suphia?
+Dialogue: 0,0:20:33.92,0:20:35.15,Gen_Main,Alvis,0000,0000,0000,,Grucius.
+Dialogue: 0,0:20:35.42,0:20:37.79,Gen_Main,Alvis,0000,0000,0000,,Ve a encargarte de ese humano.
+Dialogue: 0,0:20:38.00,0:20:38.96,Gen_Main,Grucius,0000,0000,0000,,Bah.
+Dialogue: 0,0:20:39.30,0:20:42.35,Gen_Main,Grucius,0000,0000,0000,,¿Solo porque soy el de menor\Nrango entre las Tres Bestias
+Dialogue: 0,0:20:39.71,0:20:44.22,Cart_A_Tim,Text,0000,0000,0000,,{\fad(500,500)\bord1\blur1\fs16}El de menor rango entre las Tres Bestias\N{\fs26}Grucius
+Dialogue: 0,0:20:42.51,0:20:44.24,Gen_Main,Grucius,0000,0000,0000,,debo pelear contra un humano?
+Dialogue: 0,0:20:49.51,0:20:50.72,Gen_Main,Grucius,0000,0000,0000,,Juguemos,
+Dialogue: 0,0:20:51.98,0:20:53.18,Gen_Main,Grucius,0000,0000,0000,,humano.
+Dialogue: 0,0:20:53.77,0:20:55.77,Gen_Main,Youm,0000,0000,0000,,Claro, encantado.
+Dialogue: 0,0:21:08.28,0:21:10.45,Gen_Italics,Rimuru,0000,0000,0000,,Youm no lo hace nada mal.
+Dialogue: 0,0:21:10.62,0:21:14.00,Gen_Italics,Rimuru,0000,0000,0000,,Están bastante igualados a pesar\Nde que Grucius es un Majin.
+Dialogue: 0,0:21:14.16,0:21:16.92,Gen_Main,Shuna,0000,0000,0000,,Sí, pelea de manera soberbia.
+Dialogue: 0,0:21:17.08,0:21:20.42,Gen_Italics,Rimuru,0000,0000,0000,,¡El entrenamiento de Hakurou\Nha dado sus frutos!
+Dialogue: 0,0:21:20.59,0:21:22.38,Gen_Main,Kajir,0000,0000,0000,,¡El jefe no lo hace nada mal!
+Dialogue: 0,0:21:22.55,0:21:24.17,Gen_Main,Kajir,0000,0000,0000,,¡Por algo es el campeón!
+Dialogue: 0,0:21:28.89,0:21:31.26,Gen_Main,Suphia,0000,0000,0000,,¡No esperaba divertirme tanto!
+Dialogue: 0,0:21:32.06,0:21:33.70,Gen_Main,Shion,0000,0000,0000,,No me subestimes, teriántropa.
+Dialogue: 0,0:21:34.02,0:21:38.06,Gen_Main,Shion,0000,0000,0000,,¡La fuerza de un Kijin puede\Nrasgar los cielos y partir la tierra!
+Dialogue: 0,0:21:40.44,0:21:41.98,Gen_Main,Shion,0000,0000,0000,,¡Y te lo demostraré!
+Dialogue: 0,0:21:44.11,0:21:45.72,Gen_Main,Suphia,0000,0000,0000,,¡Perfecto, hazlo!
+Dialogue: 0,0:21:45.86,0:21:48.20,Gen_Main,Suphia,0000,0000,0000,,¡Diviérteme mucho más!
+Dialogue: 0,0:21:51.87,0:21:56.46,Gen_Italics,Rimuru,0000,0000,0000,,Y así, en cuanto llegó\Nla delegación de Eurazania,
+Dialogue: 0,0:21:56.62,0:21:59.03,Gen_Italics,Rimuru,0000,0000,0000,,se desató un combate feroz.
+Dialogue: 0,0:22:01.92,0:22:04.72,Gen_Italics,Rimuru,0000,0000,0000,,Aunque, claro,\Nfui yo el que los incitó.
+Dialogue: 0,0:23:36.31,0:23:36.93,Gen_Next,Great Sage,0000,0000,0000,,{\pos(320,85)}Próximo episodio
+Dialogue: 0,0:23:36.81,0:23:40.09,Gen_Italics,Great Sage,0000,0000,0000,,Próximo episodio:\N"Comercio con el Reino Animal".
+Dialogue: 0,0:23:37.18,0:23:40.98,Gen_Next,Title,0000,0000,0000,,{\fad(500,0)}Comercio con el Reino Animal

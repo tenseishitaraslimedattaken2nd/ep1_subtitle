@@ -1,0 +1,376 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Overlap,Arial,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: OrtTypes,Georgia,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0085,1
+Style: NextEpiTitle1,Georgia,23,&H00000000,&H000000FF,&H00D5E3E7,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,1,0,9,0000,0325,0075,1
+Style: NextEpiTitle2,Georgia,23,&H00D5E3E7,&H000000FF,&H00D5E3E7,&H00FFFFFF,-1,0,-1,0,100,100,0,0,1,0,0,7,0325,0000,0075,1
+Style: NachstesMal,Georgia,23,&H00E0EBF0,&H000000FF,&H00D5E3E7,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0000,0075,1
+Style: EpiTitle,Georgia,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,9,0010,0040,0020,1
+Style: Mapbaeh,Verdana,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0100,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.49,0:00:05.84,Default,,0000,0000,0000,,Alice Rondo!
+Dialogue: 0,0:00:05.84,0:00:07.03,Default,,0000,0000,0000,,Hier.
+Dialogue: 0,0:00:07.03,0:00:08.58,Default,,0000,0000,0000,,Cloe O’veil!
+Dialogue: 0,0:00:08.58,0:00:09.58,Default,,0000,0000,0000,,Hier.
+Dialogue: 0,0:00:09.98,0:00:12.28,Default,,0000,0000,0000,,Gut, alle sind hier.
+Dialogue: 0,0:00:12.28,0:00:16.45,Default,,0000,0000,0000,,Wie ich euch bereits gesagt habe, werde ich die\NFreiheitsakademie nach diesem Semester verlassen.
+Dialogue: 0,0:00:17.79,0:00:19.02,Default,,0000,0000,0000,,Herr Rimuru …
+Dialogue: 0,0:00:19.95,0:00:22.40,Default,,0000,0000,0000,,Mach doch nicht so ein trauriges Gesicht.
+Dialogue: 0,0:00:22.40,0:00:24.46,Default,,0000,0000,0000,,Ich werde ab und an vorbeischauen.
+Dialogue: 0,0:00:24.75,0:00:26.81,Default,,0000,0000,0000,,Pah, als ob wir das bräuchten.
+Dialogue: 0,0:00:26.81,0:00:29.34,Default,,0000,0000,0000,,Richtig.\NIst super entspannt hier ohne Sie.
+Dialogue: 0,0:00:29.34,0:00:31.23,Default,,0000,0000,0000,,Wie sie auf hart machen.
+Dialogue: 0,0:00:31.23,0:00:33.34,Default,,0000,0000,0000,,Man merkt voll, dass sie schauspielern.
+Dialogue: 0,0:00:33.34,0:00:36.55,Default,,0000,0000,0000,,Bitte kommen Sie wirklich ab und an vorbei,\NHerr Rimuru.
+Dialogue: 0,0:00:36.55,0:00:38.43,Default,,0000,0000,0000,,Na, aber klaro.
+Dialogue: 0,0:00:38.43,0:00:41.56,Default,,0000,0000,0000,,Außerdem haben wir bis dahin\Nnoch über einen Monat.
+Dialogue: 0,0:00:41.56,0:00:45.43,Default,,0000,0000,0000,,Und vorher habt ihr noch eure\NHalbjahresprüfungen vor euch.
+Dialogue: 0,0:00:45.43,0:00:47.06,Default,,0000,0000,0000,,Ihr müsst also ordentlich lernen.
+Dialogue: 0,0:00:47.34,0:00:50.19,Default,,0000,0000,0000,,Die Halbjahresprüfungen.\NDa war ja was.
+Dialogue: 0,0:00:50.54,0:00:52.57,Default,,0000,0000,0000,,Herr Rimuru, ich bin so frei.
+Dialogue: 0,0:00:52.57,0:00:56.05,Default,,0000,0000,0000,,Oh, ist es schon Zeit für\Nden Unterricht von Fräulein Tiss?
+Dialogue: 0,0:00:56.05,0:00:56.79,Default,,0000,0000,0000,,Hopp!
+Dialogue: 0,0:00:58.42,0:00:59.57,Default,,0000,0000,0000,,Bitte sehr!
+Dialogue: 0,0:00:59.94,0:01:03.29,Default,,0000,0000,0000,,Kinder, dass ihr mir das\NFräulein Tiss nicht ärgert!
+Dialogue: 0,0:01:03.29,0:01:05.83,Default,,0000,0000,0000,,Das würden wir doch nie machen.
+Dialogue: 0,0:01:05.83,0:01:09.20,Default,,0000,0000,0000,,Wir sind zusammen mit ihr\Nnach Guratoll gereist
+Dialogue: 0,0:01:09.20,0:01:11.30,Default,,0000,0000,0000,,und sind jetzt super dicke mit ihr.
+Dialogue: 0,0:01:12.53,0:01:14.80,Default,,0000,0000,0000,,Genau, ihr seid liebe Kinder.
+Dialogue: 0,0:01:15.18,0:01:17.05,Default,,0000,0000,0000,,Liebe Kinder also.
+Dialogue: 0,0:01:21.91,0:01:24.76,Default,,0000,0000,0000,,So bitte sehr, Fräulein Tiss.\NViel Spaß.
+Dialogue: 0,0:01:24.76,0:01:25.20,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:01:25.20,0:01:28.02,Default,,0000,0000,0000,,Was machen Sie, Herr Rimuru?
+Dialogue: 0,0:01:28.02,0:01:29.81,Default,,0000,0000,0000,,Sicher einen Mittagsschlaf.
+Dialogue: 0,0:01:29.81,0:01:31.21,Default,,0000,0000,0000,,Na, aber hör mal.
+Dialogue: 0,0:01:31.21,0:01:35.03,Default,,0000,0000,0000,,Auch, wenn es nicht so aussieht,\Nbin ich sehr beschäftigt, Alice.
+Dialogue: 0,0:01:35.44,0:01:36.99,Default,,0000,0000,0000,,Also bis dann.
+Dialogue: 0,0:01:37.46,0:01:40.47,Default,,0000,0000,0000,,Viel Spaß, Herr Rimuru!
+Dialogue: 0,0:01:41.37,0:01:44.33,Default,,0000,0000,0000,,Dann wollen wir mal mit\Ndem Unterricht beginnen.
+Dialogue: 0,0:01:44.33,0:01:45.04,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:01:45.04,0:01:46.37,Default,,0000,0000,0000,,Kinder!
+Dialogue: 0,0:01:47.86,0:01:50.88,Default,,0000,0000,0000,,Bei denen scheint ja alles\Nwie am Schnürchen zu laufen.
+Dialogue: 0,0:01:50.88,0:01:51.94,Default,,0000,0000,0000,,Ja.
+Dialogue: 0,0:01:52.85,0:01:56.89,Default,,0000,0000,0000,,Muss ich mir also keine Sorgen machen,\Nsie nun Fräulein Tiss zu überlassen.
+Dialogue: 0,0:01:56.89,0:01:57.88,Default,,0000,0000,0000,,Dann wollen wir mal.
+Dialogue: 0,0:02:02.08,0:02:04.77,Default,,0000,0000,0000,,Ja, ich habe echt viel zu tun.
+Dialogue: 0,0:02:04.77,0:02:08.18,Default,,0000,0000,0000,,Ich habe nicht nur ein Auge auf die Kinder\Nan der Freiheitsakademie,
+Dialogue: 0,0:02:08.18,0:02:13.31,Default,,0000,0000,0000,,sondern habe auch viel für unser\NLand der Dämonen, Tempest, zu tun.
+Dialogue: 0,0:02:13.31,0:02:17.10,Default,,0000,0000,0000,,Deshalb ist für die Raumfortbewegung,\Ndie ich durch die Analyse des
+Dialogue: 0,0:02:17.10,0:02:20.67,Default,,0000,0000,0000,,Raum-Elementargeistes erhalten habe,\Nsuper praktisch für mich.
+Dialogue: 0,0:02:22.78,0:02:26.41,Default,,0000,0000,0000,,Ach, ja. Heute ist es wieder friedlich in Tempest.\NWas für ein Glück.
+Dialogue: 0,0:02:27.86,0:02:30.09,Internal,,0000,0000,0000,,Mein Name ist Rimuru Tempest.
+Dialogue: 0,0:02:30.09,0:02:31.92,Internal,,0000,0000,0000,,Ich bin ein Schleim.
+Dialogue: 0,0:02:34.37,0:02:37.87,Internal,,0000,0000,0000,,Ich war ein Mensch und\Nwurde auf offener Straße erstochen.
+Dialogue: 0,0:02:37.87,0:02:40.00,Internal,,0000,0000,0000,,Und als ich dachte, dass es das gewesen war, …
+Dialogue: 0,0:02:44.22,0:02:47.74,Internal,,0000,0000,0000,,wurde ich in dieser Welt\Nals Schleim wiedergeboren.
+Dialogue: 0,0:02:56.82,0:02:59.99,Internal,,0000,0000,0000,,Unter anderem habe ich mich mit\Ndem Sturmdrachen Veldora angefreundet, …
+Dialogue: 0,0:03:09.54,0:03:11.98,Internal,,0000,0000,0000,,eine Nation der Dämonen errichtet, …
+Dialogue: 0,0:03:23.85,0:03:26.62,Internal,,0000,0000,0000,,gekämpft, um diese zu beschützen …
+Dialogue: 0,0:03:35.10,0:03:37.00,Internal,,0000,0000,0000,,und ich habe den Kindern, …
+Dialogue: 0,0:03:48.37,0:03:50.07,Internal,,0000,0000,0000,,die Shizu zurückgelassen hat, …
+Dialogue: 0,0:03:51.99,0:03:54.50,Internal,,0000,0000,0000,,helfen können.
+Dialogue: 0,0:03:58.02,0:04:00.25,Internal,,0000,0000,0000,,Da fiel mir ein Stein vom Herzen.
+Dialogue: 0,0:04:09.10,0:04:12.21,Default,,0000,0000,0000,,Meine Zeit als Lehrer gehen nun bald zu Ende.
+Dialogue: 0,0:04:12.21,0:04:16.37,Default,,0000,0000,0000,,Es war ein ziemliches Auf und Ab
+Dialogue: 0,0:04:16.37,0:04:19.11,Default,,0000,0000,0000,,und es war echt nicht immer leicht.
+Dialogue: 0,0:04:19.11,0:04:20.60,Default,,0000,0000,0000,,Oder, Ranga?
+Dialogue: 0,0:04:20.60,0:04:23.60,Default,,0000,0000,0000,,Es wäre sehr schön,\Nwenn es immer so friedlich bleiben würden.
+Dialogue: 0,0:06:06.97,0:06:12.01,EpiTitle,,0000,0000,0000,,{\fad(0,525)\be1\bord0.7\alpha&HFF&\t(0,160,\alpha&H00&)}K{\alpha&HFF&\t(21,181,\alpha&H00&)}a{\alpha&HFF&\t(43,203,\alpha&H00&)}p{\alpha&HFF&\t(65,225,\alpha&H00&)}i{\alpha&HFF&\t(87,247,\alpha&H00&)}t{\alpha&HFF&\t(109,269,\alpha&H00&)}e{\alpha&HFF&\t(131,291,\alpha&H00&)}l {\alpha&HFF&\t(153,313,\alpha&H00&)}2{\alpha&HFF&\t(175,335,\alpha&H00&)}5{\alpha&HFF&\t(197,357,\alpha&H00&)}: {\alpha&HFF&\t(219,379,\alpha&H00&)}R{\alpha&HFF&\t(241,401,\alpha&H00&)}i{\alpha&HFF&\t(263,423,\alpha&H00&)}m{\alpha&HFF&\t(285,445,\alpha&H00&)}u{\alpha&HFF&\t(307,467,\alpha&H00&)}r{\alpha&HFF&\t(329,489,\alpha&H00&)}u{\alpha&HFF&\t(351,511,\alpha&H00&)}s {\alpha&HFF&\t(373,533,\alpha&H00&)}g{\alpha&HFF&\t(395,555,\alpha&H00&)}e{\alpha&HFF&\t(416,576,\alpha&H00&)}s{\alpha&HFF&\t(438,598,\alpha&H00&)}c{\alpha&HFF&\t(460,620,\alpha&H00&)}h{\alpha&HFF&\t(482,642,\alpha&H00&)}ä{\alpha&HFF&\t(504,664,\alpha&H00&)}f{\alpha&HFF&\t(526,686,\alpha&H00&)}t{\alpha&HFF&\t(548,708,\alpha&H00&)}i{\alpha&HFF&\t(570,730,\alpha&H00&)}g{\alpha&HFF&\t(592,752,\alpha&H00&)}e{\alpha&HFF&\t(614,774,\alpha&H00&)}s {\alpha&HFF&\t(636,796,\alpha&H00&)}T{\alpha&HFF&\t(658,818,\alpha&H00&)}a{\alpha&HFF&\t(680,840,\alpha&H00&)}g{\alpha&HFF&\t(702,862,\alpha&H00&)}e{\alpha&HFF&\t(724,884,\alpha&H00&)}w{\alpha&HFF&\t(746,906,\alpha&H00&)}e{\alpha&HFF&\t(768,928,\alpha&H00&)}r{\alpha&HFF&\t(790,950,\alpha&H00&)}k
+Dialogue: 0,0:06:07.06,0:06:10.34,Internal,,0000,0000,0000,,Nachdem ich den Dämonenkönig Karion\Ngetroffen hatte, entschieden wir uns dazu,
+Dialogue: 0,0:06:10.34,0:06:14.10,Internal,,0000,0000,0000,,keine Feinde zu sein, und haben\Neinen Nichtangriffspakt geschlossen.
+Dialogue: 0,0:06:14.10,0:06:16.92,Internal,,0000,0000,0000,,Auf Anraten Karions hatten\Nwir uns dazu entschlossen,
+Dialogue: 0,0:06:16.92,0:06:21.10,Internal,,0000,0000,0000,,dass wir zwischen der Republik Jura-Tempest\Nund dem Königreich der Bestienmenschen Jurasania
+Dialogue: 0,0:06:17.06,0:06:23.77,Mapbaeh,,0000,0000,0000,,{\fad(625,0)\pos(465,93)\bord2\fs-2\be2\c&H031935&\3c&H62A4BC&}Republik Jura-Tempest
+Dialogue: 0,0:06:18.69,0:06:23.77,Mapbaeh,,0000,0000,0000,,{\fad(625,0)\bord2\fs-4\be2\c&H031935&\3c&H62A4BC&\pos(549,265)}Königreich der Bestienmenschen\N{\fs+3}Jurasania
+Dialogue: 0,0:06:21.10,0:06:23.77,Internal,,0000,0000,0000,,Delegationen entsenden wollten.
+Dialogue: 0,0:06:24.45,0:06:26.71,Internal,,0000,0000,0000,,Ich hatte Benimaru\Nzum Anführer der Delegation bestimmt.
+Dialogue: 0,0:06:26.71,0:06:28.78,Internal,,0000,0000,0000,,Rigul zu seinem Assistenten.
+Dialogue: 0,0:06:28.78,0:06:32.24,Default,,0000,0000,0000,,Mein Rigul ist zu so einem stattlichen …!
+Dialogue: 0,0:06:33.94,0:06:38.08,Internal,,0000,0000,0000,,Der heutige Tag musste als Tag des Aufbruchs\Nunserer Delegation gefeiert werden.
+Dialogue: 0,0:06:38.79,0:06:42.29,Internal,,0000,0000,0000,,Deshalb war ich nach Tempest zurückgekehrt.
+Dialogue: 0,0:06:48.12,0:06:50.28,Default,,0000,0000,0000,,Hm, der ist so lala.
+Dialogue: 0,0:06:54.67,0:06:55.53,Default,,0000,0000,0000,,Woah!
+Dialogue: 0,0:06:55.53,0:06:58.11,Default,,0000,0000,0000,,Die Form zu halten ist echt hart.
+Dialogue: 0,0:06:58.11,0:07:00.94,Default,,0000,0000,0000,,Meister Rimuru,\Nentschuldigen Sie die Wartezeit.
+Dialogue: 0,0:07:01.27,0:07:04.94,Default,,0000,0000,0000,,Wir haben ein bisschen Kleidung\Nfür die Festlichkeiten herausgesucht.
+Dialogue: 0,0:07:05.26,0:07:06.55,Default,,0000,0000,0000,,Oh, vielen Dank!
+Dialogue: 0,0:07:06.55,0:07:08.99,Default,,0000,0000,0000,,Dann wollen wir die mal anprobieren.
+Dialogue: 0,0:07:18.47,0:07:21.42,Default,,0000,0000,0000,,Also das passt nicht so ganz,\Nmeint ihr nicht?
+Dialogue: 0,0:07:22.04,0:07:24.13,Default,,0000,0000,0000,,Und wie wäre es dann hiermit?
+Dialogue: 0,0:07:25.67,0:07:28.63,Default,,0000,0000,0000,,Hä?\NAlso das ist auch ein bisschen …
+Dialogue: 0,0:07:29.43,0:07:31.30,Default,,0000,0000,0000,,Ich würde dies hier vorschlagen.
+Dialogue: 0,0:07:35.66,0:07:37.09,Default,,0000,0000,0000,,Steht Ihnen super, Meister Rimuru!
+Dialogue: 0,0:07:37.09,0:07:39.09,Default,,0000,0000,0000,,Ja, wirklich großartig!
+Dialogue: 0,0:07:39.09,0:07:41.31,Default,,0000,0000,0000,,Ach, wisst ihr, Shuna, Shion …
+Dialogue: 0,0:07:43.71,0:07:47.94,Default,,0000,0000,0000,,Für den heutigen Tag brauche ich eher etwas,\Nwas ein bisschen stattlicher ist.
+Dialogue: 0,0:07:48.22,0:07:51.11,Default,,0000,0000,0000,,Ein bisschen stattlichere Kleidung?
+Dialogue: 0,0:07:51.11,0:07:54.32,Default,,0000,0000,0000,,Die Delegation ist wichtig\Nfür die Zukunft Tempests.
+Dialogue: 0,0:07:54.32,0:07:56.99,Default,,0000,0000,0000,,Und ich möchte Ihnen\Neinen ordentlichen Abschied bereiten.
+Dialogue: 0,0:07:57.42,0:07:58.81,Default,,0000,0000,0000,,Ach, so ist das.
+Dialogue: 0,0:07:59.19,0:08:02.81,Default,,0000,0000,0000,,Da hätten wir was.\NAlso etwas ein wenig Stattlicheres.
+Dialogue: 0,0:08:09.43,0:08:11.01,Default,,0000,0000,0000,,Hey, es geht los.
+Dialogue: 0,0:08:18.51,0:08:22.03,Default,,0000,0000,0000,,Das ist unser Meister Rimuru\Noder, Gobuzo?!
+Dialogue: 0,0:08:22.03,0:08:22.89,Default,,0000,0000,0000,,Hmm!
+Dialogue: 0,0:08:22.89,0:08:24.70,Default,,0000,0000,0000,,S-So cool!
+Dialogue: 0,0:08:24.70,0:08:26.60,Default,,0000,0000,0000,,Ihr seid auch cool, Meister Gabiru!
+Dialogue: 0,0:08:26.60,0:08:27.12,Default,,0000,0000,0000,,So was von!
+Dialogue: 0,0:08:27.12,0:08:28.19,Default,,0000,0000,0000,,Ich würd sagen so lala.
+Dialogue: 0,0:08:28.19,0:08:30.66,Default,,0000,0000,0000,,Mein Herr, Ihr sehr umwerfend aus!
+Dialogue: 0,0:08:30.66,0:08:32.09,Default,,0000,0000,0000,,Untertanen, hört her!
+Dialogue: 0,0:08:32.09,0:08:32.78,Default,,0000,0000,0000,,Woah!
+Dialogue: 0,0:08:43.24,0:08:46.79,Default,,0000,0000,0000,,Meine Herrschaften,\Nso gebt bitte euer Bestes!
+Dialogue: 0,0:08:52.47,0:08:53.89,Default,,0000,0000,0000,,Das war’s?
+Dialogue: 0,0:08:53.89,0:08:55.88,Default,,0000,0000,0000,,Also war das doch zu kurz?
+Dialogue: 0,0:08:57.51,0:08:59.46,Default,,0000,0000,0000,,Dann also noch ein wenig.
+Dialogue: 0,0:09:01.24,0:09:05.22,Default,,0000,0000,0000,,Tempest ist im Vergleich zu früher\Nviel wohlhabender geworden.
+Dialogue: 0,0:09:05.22,0:09:07.69,Default,,0000,0000,0000,,Aber als Staat fehlt es\Nuns noch an Erfahrung.
+Dialogue: 0,0:09:08.77,0:09:12.03,Default,,0000,0000,0000,,Wenn wir mit Jurasania\Nfreundschaftliche Beziehungen etablieren können,
+Dialogue: 0,0:09:12.03,0:09:14.42,Default,,0000,0000,0000,,können wir uns von ihnen\Neiniges abschauen
+Dialogue: 0,0:09:14.42,0:09:17.83,Default,,0000,0000,0000,,und damit unser Tempest\Nnoch weiter vorantreiben.
+Dialogue: 0,0:09:18.17,0:09:19.24,Default,,0000,0000,0000,,Jedoch …
+Dialogue: 0,0:09:19.70,0:09:22.46,Default,,0000,0000,0000,,Der Dämonenkönig Karion, der Jurasania regiert,
+Dialogue: 0,0:09:19.70,0:09:26.25,Mapbaeh,,0000,0000,0000,,{\fad(0,1750)\bord2\be2\fs14\c&H031935&\3c&H62A4BC&\frz20.78\t(0.3\fscx200\fscy200)\move(415,164,247,82)}Föderation der Dämonenstaaten
+Dialogue: 0,0:09:19.70,0:09:26.25,Mapbaeh,,0000,0000,0000,,{\fad(0,1750)\bord2\be2\fs14\c&H031935&\3c&H62A4BC&\t(0.3\fscx200\fscy200)\move(225,178,-160,103)}Die Westlichen Länder
+Dialogue: 0,0:09:19.70,0:09:26.96,Mapbaeh,,0000,0000,0000,,{\fad(0,700)\bord2\be2\fs10\c&H031935&\3c&H62A4BC&\t(0.3\fscx200\fscy200)\move(516,202.857,422.428,137)}Königreich der Bestienmenschen\N{\fs+3}Jurasania
+Dialogue: 0,0:09:22.46,0:09:26.04,Default,,0000,0000,0000,,hat den Spitznamen Bestienmeister\Nund ist ein richtiger Kriegsherr.
+Dialogue: 0,0:09:26.04,0:09:29.23,Default,,0000,0000,0000,,Für Ihn ist Macht alles,\Ndenke ich zumindest.
+Dialogue: 0,0:09:29.71,0:09:33.16,Default,,0000,0000,0000,,Wenn es also aussieht, als würde es zum\NKampf kommen, kommt umgehend zurück.
+Dialogue: 0,0:09:34.10,0:09:35.99,Default,,0000,0000,0000,,Unser Ziel ist nicht der Kampf.
+Dialogue: 0,0:09:35.99,0:09:39.52,Default,,0000,0000,0000,,Ihr werdet entsandt, um zu bestimmen,\Nob unsere Beziehungen besser werden können
+Dialogue: 0,0:09:39.52,0:09:41.45,Default,,0000,0000,0000,,oder ob wir sie abbrechen werden.
+Dialogue: 0,0:09:41.81,0:09:46.31,Default,,0000,0000,0000,,Dies dient dem Wohle Tempests,\Nwir sind zu keinem Ergebnis verpflichtet.
+Dialogue: 0,0:09:47.05,0:09:47.81,Default,,0000,0000,0000,,Ihr schafft das.
+Dialogue: 0,0:09:48.18,0:09:49.24,Default,,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:09:52.23,0:09:54.27,Default,,0000,0000,0000,,Meister Rimuru!
+Dialogue: 0,0:09:54.27,0:09:56.86,Default,,0000,0000,0000,,Ihre Rede war so ergreifend!
+Dialogue: 0,0:09:56.86,0:09:57.74,Default,,0000,0000,0000,,Alles ist gut.
+Dialogue: 0,0:10:00.74,0:10:03.96,Default,,0000,0000,0000,,Eigentlich sollte ich gehen.
+Dialogue: 0,0:10:03.96,0:10:05.07,Default,,0000,0000,0000,,Nein.
+Dialogue: 0,0:10:05.07,0:10:07.16,Default,,0000,0000,0000,,Solange wir nicht sicher sind,\Ndass es sicher ist,
+Dialogue: 0,0:10:07.16,0:10:09.71,Default,,0000,0000,0000,,sollten Sie davon absehen, in das\NGebiet des Dämonenkönigs zu gehen.
+Dialogue: 0,0:10:10.09,0:10:14.72,Default,,0000,0000,0000,,Ich werde mit meinen eigenen Augen feststellen,\Nob man dem Dämonenkönig Karion trauen kann.
+Dialogue: 0,0:10:14.72,0:10:15.46,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:10:15.78,0:10:18.97,Default,,0000,0000,0000,,Aber hergehört:\NZettelt unter keinen Umständen Streit an.
+Dialogue: 0,0:10:18.97,0:10:20.68,Default,,0000,0000,0000,,Sie müssen sich nicht sorgen.
+Dialogue: 0,0:10:20.68,0:10:21.76,Internal,,0000,0000,0000,,So verlässlich!
+Dialogue: 0,0:10:21.76,0:10:24.06,Internal,,0000,0000,0000,,Benimaru ist so erwachsen geworden.
+Dialogue: 0,0:10:24.75,0:10:26.56,Default,,0000,0000,0000,,Rigul, bitte gib auch du dein Bestes.
+Dialogue: 0,0:10:26.56,0:10:29.06,Default,,0000,0000,0000,,Jawohl.\NIch werde mein Bestes geben!
+Dialogue: 0,0:10:31.38,0:10:33.07,Default,,0000,0000,0000,,Wir reisen ab.
+Dialogue: 0,0:10:39.07,0:10:41.67,Default,,0000,0000,0000,,Habt viel Spaß!
+Dialogue: 0,0:10:41.67,0:10:43.23,Default,,0000,0000,0000,,Auf Wiedersehen!
+Dialogue: 0,0:10:43.23,0:10:44.83,Default,,0000,0000,0000,,Gebt alles!
+Dialogue: 0,0:10:44.83,0:10:47.86,Default,,0000,0000,0000,,Bruder, pass auf dich auf!
+Dialogue: 0,0:10:45.34,0:10:47.86,Overlap,,0000,0000,0000,,Gebt euer Bestes!
+Dialogue: 0,0:10:48.25,0:10:50.83,Internal,,0000,0000,0000,,Die ersten Schritte\Nin eine Zukunft voller Hoffnung.
+Dialogue: 0,0:10:50.83,0:10:51.83,Internal,,0000,0000,0000,,Hoffe ich.
+Dialogue: 0,0:10:52.29,0:10:54.62,Internal,,0000,0000,0000,,Die Errichtung bilateraler Beziehungen,
+Dialogue: 0,0:10:54.62,0:10:58.23,Internal,,0000,0000,0000,,durch die beide Staaten\Nordentlich wachsen sollten.
+Dialogue: 0,0:11:00.03,0:11:04.15,Internal,,0000,0000,0000,,Das war das Ziel der ersten Delegation,\Ndie aufbrach.
+Dialogue: 0,0:11:05.10,0:11:10.60,Internal,,0000,0000,0000,,Wir mussten ebenfalls alle Vorbereitungen treffen,\Num die Delegation aus Jurasania zu empfangen.
+Dialogue: 0,0:11:12.60,0:11:16.78,Default,,0000,0000,0000,,Sehr gut. Wir scheinen das Gästehaus\Nrechtzeitig fertigzubekommen.
+Dialogue: 0,0:11:16.78,0:11:18.59,Default,,0000,0000,0000,,Wie sieht es mit den Köchen aus?
+Dialogue: 0,0:11:18.59,0:11:19.11,Default,,0000,0000,0000,,Ebenfalls.
+Dialogue: 0,0:11:19.67,0:11:21.74,Default,,0000,0000,0000,,Shuna unterrichtet sie im Moment.
+Dialogue: 0,0:11:21.74,0:11:24.77,Default,,0000,0000,0000,,Sie lernen alle schnell\Nund kommen gut voran.
+Dialogue: 0,0:11:25.37,0:11:29.20,Default,,0000,0000,0000,,Ah, das ist gut. Aber wie wäre es,\Nwenn wir noch ein wenig Salz beigeben?
+Dialogue: 0,0:11:29.92,0:11:32.37,Default,,0000,0000,0000,,Das Empfangspersonal wird
+Dialogue: 0,0:11:32.37,0:11:34.63,Default,,0000,0000,0000,,von Herrn Bester eingewiesen.
+Dialogue: 0,0:11:34.93,0:11:37.46,Default,,0000,0000,0000,,Ah, er kennt sich also mit der Etikette aus?
+Dialogue: 0,0:11:37.46,0:11:39.13,Default,,0000,0000,0000,,Er ist halt ein echter Adliger.
+Dialogue: 0,0:11:39.58,0:11:41.86,Default,,0000,0000,0000,,Wo wir grade dabei sind …
+Dialogue: 0,0:11:41.86,0:11:45.14,Default,,0000,0000,0000,,Der Tag des Staatsbesuches in der\NKriegsnation Dwargon wurde festgelegt.
+Dialogue: 0,0:11:45.14,0:11:47.31,Default,,0000,0000,0000,,Ah, der Besuch bei König Gazelle.
+Dialogue: 0,0:11:47.31,0:11:52.14,Default,,0000,0000,0000,,Wir müssen noch einen Staatsbesuch zur Feier\Nunserer bilateralen Beziehungen antreten.
+Dialogue: 0,0:11:52.53,0:11:56.41,Default,,0000,0000,0000,,Die Sache mit Milim in der Charybdis-Krise\Nhatte ihm ja nicht gefallen.
+Dialogue: 0,0:11:56.41,0:11:58.62,Default,,0000,0000,0000,,Das muss ich ihm genauer erklären.
+Dialogue: 0,0:12:02.00,0:12:03.16,Default,,0000,0000,0000,,Tryney!
+Dialogue: 0,0:12:04.89,0:12:06.51,Default,,0000,0000,0000,,Guten Tag,
+Dialogue: 0,0:12:06.51,0:12:07.91,Default,,0000,0000,0000,,Herr Rimuru.
+Dialogue: 0,0:12:07.91,0:12:10.82,Default,,0000,0000,0000,,Was ist los?\NIst etwas passiert?
+Dialogue: 0,0:12:10.82,0:12:11.74,Default,,0000,0000,0000,,Ja.
+Dialogue: 0,0:12:11.74,0:12:17.93,Default,,0000,0000,0000,,Die Delegation aus Jurasania, dem Königreich\Nder Bestienmenschen, ist im Jura-Wald angekommen.
+Dialogue: 0,0:12:17.93,0:12:19.46,Default,,0000,0000,0000,,Oh, sind sie also da?
+Dialogue: 0,0:12:19.92,0:12:23.84,Default,,0000,0000,0000,,Ich denke, dass sie in fünf Tagen\Nhier in Tempest ankommen werden.
+Dialogue: 0,0:12:23.84,0:12:25.80,Default,,0000,0000,0000,,Danke, dass du uns Bescheid gegeben hast.
+Dialogue: 0,0:12:26.14,0:12:28.53,Default,,0000,0000,0000,,Ach, das war nicht der Rede wert.
+Dialogue: 0,0:12:28.53,0:12:32.82,Default,,0000,0000,0000,,Ach ja. Sie sollten ankommen,\Nbevor die Delegation da ist.
+Dialogue: 0,0:12:32.82,0:12:34.39,Default,,0000,0000,0000,,Sie?
+Dialogue: 0,0:12:34.39,0:12:36.75,Default,,0000,0000,0000,,Ja, die Helden …
+Dialogue: 0,0:12:41.90,0:12:45.03,Default,,0000,0000,0000,,Lass uns heimgehen.\NEs wird schon dunkel.
+Dialogue: 0,0:12:45.03,0:12:45.91,Default,,0000,0000,0000,,Alles klar!
+Dialogue: 0,0:12:46.22,0:12:47.20,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:12:48.20,0:12:51.10,Default,,0000,0000,0000,,P-P-P…
+Dialogue: 0,0:12:51.10,0:12:52.72,Default,,0000,0000,0000,,Pilz!
+Dialogue: 0,0:12:52.72,0:12:53.71,Default,,0000,0000,0000,,Wie süß!
+Dialogue: 0,0:13:00.42,0:13:01.39,Default,,0000,0000,0000,,Bleib ganz still!
+Dialogue: 0,0:13:08.70,0:13:10.80,Internal,,0000,0000,0000,,Youm und seine Freunde.
+Dialogue: 0,0:13:10.80,0:13:13.29,Internal,,0000,0000,0000,,Sie waren mal ein zusammengewürfelter Trupp,
+Dialogue: 0,0:13:13.29,0:13:17.88,Internal,,0000,0000,0000,,aber sie waren so nett und wurden an unserer statt\Ndie Helden, die den Orklord erledigt haben.
+Dialogue: 0,0:13:19.06,0:13:20.00,Default,,0000,0000,0000,,Wow.
+Dialogue: 0,0:13:20.00,0:13:25.07,Internal,,0000,0000,0000,,Wäre rausgekommen, dass wir den Orklord erledigt\Nhatten, hätte das die Menschen nur in Unruhe versetzt.
+Dialogue: 0,0:13:25.41,0:13:26.63,Default,,0000,0000,0000,,Bist du unverletzt?
+Dialogue: 0,0:13:26.63,0:13:28.74,Default,,0000,0000,0000,,J-Ja. Vielen Dank.
+Dialogue: 0,0:13:30.13,0:13:31.61,Default,,0000,0000,0000,,Entschuldigen Sie.
+Dialogue: 0,0:13:31.61,0:13:32.69,Default,,0000,0000,0000,,Vielen Dank.
+Dialogue: 0,0:13:32.69,0:13:35.50,Default,,0000,0000,0000,,In dieser Gegend gibt es fiese Viecher.\NPasst also besser auf.
+Dialogue: 0,0:13:36.01,0:13:38.00,Default,,0000,0000,0000,,Woah, wie cool.
+Dialogue: 0,0:13:38.00,0:13:39.22,Default,,0000,0000,0000,,Nicht wahr?
+Dialogue: 0,0:13:40.75,0:13:45.00,Default,,0000,0000,0000,,Das haben mir die guten Dämonen\Nder Nation Tempest gemacht.
+Dialogue: 0,0:13:45.00,0:13:48.05,Internal,,0000,0000,0000,,Er streifte durch die Lande\Nund verkündete den Leuten,
+Dialogue: 0,0:13:48.05,0:13:50.76,Internal,,0000,0000,0000,,dass wir eine Gruppe netter Dämonen sind.
+Dialogue: 0,0:14:00.05,0:14:02.05,Internal,,0000,0000,0000,,Und so ging ich weiter …
+Dialogue: 0,0:14:20.85,0:14:24.31,Default,,0000,0000,0000,,… meinem geschäftigen Tagewerk nach …
+Dialogue: 0,0:14:36.81,0:14:40.76,Internal,,0000,0000,0000,,und kehrte am Tag vor der Ankunft\Nder Delegation aus Jurasania wieder zurück.
+Dialogue: 0,0:14:45.44,0:14:47.19,Default,,0000,0000,0000,,Mann, ist der lecker.
+Dialogue: 0,0:14:47.19,0:14:49.13,Default,,0000,0000,0000,,Das schmeckt!
+Dialogue: 0,0:14:49.13,0:14:50.82,Default,,0000,0000,0000,,Trinke ich zum ersten Mal.
+Dialogue: 0,0:14:51.57,0:14:53.91,Default,,0000,0000,0000,,Sag ich ja.\NDas nennt sich Brandy.
+Dialogue: 0,0:14:54.46,0:14:56.57,Default,,0000,0000,0000,,Brandy?
+Dialogue: 0,0:14:56.57,0:14:59.54,Default,,0000,0000,0000,,Den habe ich extra hergestellt,\Nweil wir Gäste erwarten.
+Dialogue: 0,0:14:59.92,0:15:01.28,Default,,0000,0000,0000,,Ach so.
+Dialogue: 0,0:15:01.28,0:15:02.02,Default,,0000,0000,0000,,Gäste?
+Dialogue: 0,0:15:02.02,0:15:05.96,Default,,0000,0000,0000,,Ja, morgen kommt die Delegation\Ndes Dämonenkönigs Karion hier an.
+Dialogue: 0,0:15:07.51,0:15:09.51,Default,,0000,0000,0000,,Wolltet ihr mich abballern?!
+Dialogue: 0,0:15:11.24,0:15:14.35,Default,,0000,0000,0000,,Der Dämonenkönig Karion?\NWas wollen die denn hier?
+Dialogue: 0,0:15:16.55,0:15:18.67,Default,,0000,0000,0000,,Also das ist eine lange Geschichte.
+Dialogue: 0,0:15:19.54,0:15:22.10,Default,,0000,0000,0000,,Oh, ist das entspannend.
+Dialogue: 0,0:15:23.45,0:15:25.25,Default,,0000,0000,0000,,Ja.
+Dialogue: 0,0:15:27.85,0:15:29.11,Default,,0000,0000,0000,,Ich verstehe.
+Dialogue: 0,0:15:29.11,0:15:31.86,Default,,0000,0000,0000,,Das ist unsere Chance\Nauf diplomatische Beziehungen.
+Dialogue: 0,0:15:31.86,0:15:33.51,Default,,0000,0000,0000,,Verstanden.
+Dialogue: 0,0:15:33.51,0:15:35.94,Default,,0000,0000,0000,,Aber dennoch …\NEin Dämonenkönig.
+Dialogue: 0,0:15:35.94,0:15:38.65,Default,,0000,0000,0000,,Das ist eine furchteinflößende Delegation.
+Dialogue: 0,0:15:38.65,0:15:42.38,Default,,0000,0000,0000,,Ich weiß ja nicht.\NDie kommen nicht, um Streit anzufangen.
+Dialogue: 0,0:15:42.38,0:15:46.60,Default,,0000,0000,0000,,Sie haben doch auch Benimaru geschickt, um auf\Nunvorhergesehene Situationen vorbereitet zu sein.
+Dialogue: 0,0:15:46.60,0:15:49.51,Default,,0000,0000,0000,,Dann haben die sicher das Gleiche vor.
+Dialogue: 0,0:15:50.14,0:15:51.97,Default,,0000,0000,0000,,Selbst wenn, ist das egal.
+Dialogue: 0,0:15:51.97,0:15:54.84,Default,,0000,0000,0000,,Ich will das ordentlich angehen\Nund die Chance nicht verspielen.
+Dialogue: 0,0:15:55.14,0:15:56.86,Default,,0000,0000,0000,,Da haben Sie recht.
+Dialogue: 0,0:15:57.92,0:16:00.85,Default,,0000,0000,0000,,Ich will euch auch bitten, keinen Streit\Nmit den Gesandten anzufangen.
+Dialogue: 0,0:16:01.11,0:16:02.67,Default,,0000,0000,0000,,Aber bitte, Chef.
+Dialogue: 0,0:16:02.67,0:16:06.05,Default,,0000,0000,0000,,Meine Gefolgsleute und ich\Nsind nicht so dumm.
+Dialogue: 0,0:16:06.05,0:16:06.91,Default,,0000,0000,0000,,Oder?
+Dialogue: 0,0:16:06.91,0:16:08.32,Default,,0000,0000,0000,,Auf jeden Fall.
+Dialogue: 0,0:16:08.32,0:16:09.11,Default,,0000,0000,0000,,Genau.
+Dialogue: 0,0:16:09.40,0:16:11.05,Default,,0000,0000,0000,,Dann ist’s ja gut.
+Dialogue: 0,0:16:11.05,0:16:13.45,Default,,0000,0000,0000,,Ach ja.\NHakuro wollte dich sehen.
+Dialogue: 0,0:16:13.45,0:16:14.82,Default,,0000,0000,0000,,Der Meister?
+Dialogue: 0,0:16:15.28,0:16:17.62,Default,,0000,0000,0000,,Er wollte überprüfen,\Nob du es noch drauf hast.
+Dialogue: 0,0:16:17.62,0:16:18.88,Default,,0000,0000,0000,,Äh.
+Dialogue: 0,0:16:18.88,0:16:21.66,Default,,0000,0000,0000,,Und direkt bin ich wieder nüchtern.
+Dialogue: 0,0:16:24.88,0:16:27.31,Internal,,0000,0000,0000,,Und so brach der Morgen an.
+Dialogue: 0,0:16:37.64,0:16:38.64,Default,,0000,0000,0000,,Das sind sie also.
+Dialogue: 0,0:16:49.44,0:16:50.72,Default,,0000,0000,0000,,Was sind das denn für Kutschen?
+Dialogue: 0,0:16:50.72,0:16:53.85,Default,,0000,0000,0000,,Hm, wenn Tiger sie ziehen,\Ndann sind’s wohl Tigerkutschen.
+Dialogue: 0,0:16:53.85,0:16:55.32,Default,,0000,0000,0000,,Sehen aus wie Streitwagen.
+Dialogue: 0,0:16:55.32,0:16:57.23,Default,,0000,0000,0000,,Sehen nicht allzu gefährlich aus.
+Dialogue: 0,0:16:57.23,0:17:01.16,Default,,0000,0000,0000,,Vor der Macht unseres Fürsten Rimuru\Nkönnten sie damit nicht mal bluffen.
+Dialogue: 0,0:17:01.16,0:17:04.66,Default,,0000,0000,0000,,Nein, Shion, was redest du da?\NDie Dinger sind heftig.
+Dialogue: 0,0:17:04.66,0:17:08.71,Default,,0000,0000,0000,,All diese Verzierungen.\NDie haben im Kampf doch keinen Nutzen.
+Dialogue: 0,0:17:08.71,0:17:12.34,Default,,0000,0000,0000,,Shion, mach mal halblang.\NHier geht es doch gar nicht um einen Kampf.
+Dialogue: 0,0:17:24.10,0:17:26.44,Default,,0000,0000,0000,,Ich bin erfreut,\NIhre Bekanntschaft zu machen,
+Dialogue: 0,0:17:26.44,0:17:30.76,Default,,0000,0000,0000,,Lord Rimuru Tempest,\NAnführer der Nation Tempest.
+Dialogue: 0,0:17:32.60,0:17:35.23,Default,,0000,0000,0000,,Ich bin Albis, das Goldschlangenhorn.
+Dialogue: 0,0:17:35.61,0:17:39.87,OrtTypes,,0000,0000,0000,,{\fad(500,0)\pos(320,235)\fs-5\be1\xshad0}Kriegerorden der Bestienmenschen   Die drei Bestienkrieger\N{\fs23}Albis, das Goldschlangenhorn
+Dialogue: 0,0:17:35.65,0:17:39.06,Default,,0000,0000,0000,,Ich bin einer der drei Bestienkrieger\Nunter Dämonenkönig Karion.
+Dialogue: 0,0:17:39.87,0:17:43.45,Internal,,0000,0000,0000,,Woah, dass so ein hohes Tier hier aufschlägt.
+Dialogue: 0,0:17:43.45,0:17:44.56,Default,,0000,0000,0000,,Hör auf mit den Kinderspielen!
+Dialogue: 0,0:17:44.56,0:17:45.12,Default,,0000,0000,0000,,Hä?
+Dialogue: 0,0:17:45.95,0:17:50.41,Default,,0000,0000,0000,,Ich wollte mir ansehen, was für\Nein Dämon dieser Anführer von Tempest ist.
+Dialogue: 0,0:17:50.29,0:17:56.26,OrtTypes,,0000,0000,0000,,{\fad(500,0)\pos(320,235)\fs-5\be1\xshad0}Kriegerorden der Bestienmenschen   Die drei Bestienkrieger\N{\fs23}Sphere, die Kralle des weißen Tigers
+Dialogue: 0,0:17:50.41,0:17:52.62,Default,,0000,0000,0000,,Und dann ist es ein schwächlicher Schleim?
+Dialogue: 0,0:17:52.62,0:17:55.13,Default,,0000,0000,0000,,Wollt ihr uns eigentlich verarschen?
+Dialogue: 0,0:17:56.26,0:17:58.96,Internal,,0000,0000,0000,,Woah, die sieht auch stark aus.
+Dialogue: 0,0:17:58.96,0:18:01.01,Default,,0000,0000,0000,,Benimm dich, Sphere.
+Dialogue: 0,0:18:01.01,0:18:05.68,Default,,0000,0000,0000,,Dein Verhalten beleidigt\Ndie Ehre von Meister Karion.
+Dialogue: 0,0:18:05.68,0:18:09.18,Default,,0000,0000,0000,,Halt die Klappe, Albis.\NDu hast mir nichts zu sagen.
+Dialogue: 0,0:18:09.18,0:18:11.44,Default,,0000,0000,0000,,Nur mit den Zwergen,
+Dialogue: 0,0:18:11.44,0:18:13.40,Default,,0000,0000,0000,,sondern auch noch mit den Menschen.
+Dialogue: 0,0:18:13.40,0:18:16.97,Default,,0000,0000,0000,,Du biederst dich den mickrigen\Nund niederträchtigen Menschen an.
+Dialogue: 0,0:18:16.97,0:18:18.95,Default,,0000,0000,0000,,Du bist kein Aushängeschild für die Dämonen!
+Dialogue: 0,0:18:18.95,0:18:19.78,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:20.86,0:18:22.66,Default,,0000,0000,0000,,Du sagst ziemlich fieses Zeug.
+Dialogue: 0,0:18:23.09,0:18:25.15,Default,,0000,0000,0000,,Der Kerl hier ist Youm,\Nunser Freund.
+Dialogue: 0,0:18:25.15,0:18:28.16,Default,,0000,0000,0000,,Er war ein Schüler unter\Ndemselben Meister wie ich.
+Dialogue: 0,0:18:28.16,0:18:29.79,Default,,0000,0000,0000,,Und?
+Dialogue: 0,0:18:31.68,0:18:32.79,Default,,0000,0000,0000,,Hey, Youm.
+Dialogue: 0,0:18:32.79,0:18:35.57,Default,,0000,0000,0000,,Die kann dich doch nicht\Neinfach so zum Deppen machen, oder?
+Dialogue: 0,0:18:35.57,0:18:36.21,Default,,0000,0000,0000,,Hä?
+Dialogue: 0,0:18:36.21,0:18:39.47,Default,,0000,0000,0000,,Ich erlaube es. Wie wäre es also,\Nwenn du ihr zeigst, was du wirklich kannst?
+Dialogue: 0,0:18:39.96,0:18:43.35,Default,,0000,0000,0000,,Hey, hey, machen Sie mal halblang!\NDas ist nicht sonderlich friedlich!
+Dialogue: 0,0:18:43.35,0:18:46.02,Default,,0000,0000,0000,,Ich hatte nicht vor, von uns\Naus handgreiflich zu werden,
+Dialogue: 0,0:18:46.02,0:18:49.23,Default,,0000,0000,0000,,aber das ist was ganz anderes,\Nwenn die anfangen.
+Dialogue: 0,0:18:49.49,0:18:52.62,Default,,0000,0000,0000,,Oh, willst du also spielen, Menschlein?
+Dialogue: 0,0:18:54.55,0:18:55.87,Default,,0000,0000,0000,,Also um ganz ehrlich zu sein …
+Dialogue: 0,0:18:55.87,0:18:58.14,Default,,0000,0000,0000,,Mach sie rund, Boss!
+Dialogue: 0,0:18:58.14,0:19:00.65,Default,,0000,0000,0000,,Das kannst du doch\Nnicht auf dir sitzen lassen!
+Dialogue: 0,0:19:00.65,0:19:03.00,Default,,0000,0000,0000,,Komm schon, Youm!
+Dialogue: 0,0:19:04.92,0:19:06.49,Default,,0000,0000,0000,,Dann muss ich halt ran.
+Dialogue: 0,0:19:10.15,0:19:13.08,Default,,0000,0000,0000,,Chef, aber du machst den Dreck weg, ja?
+Dialogue: 0,0:19:13.08,0:19:13.93,Default,,0000,0000,0000,,Pah!
+Dialogue: 0,0:19:13.93,0:19:16.18,Default,,0000,0000,0000,,Der Schleim soll was machen?
+Dialogue: 0,0:19:16.18,0:19:17.38,Default,,0000,0000,0000,,Dass ich nicht lache!
+Dialogue: 0,0:19:17.38,0:19:19.97,Default,,0000,0000,0000,,Klar, überlass das … Hä?
+Dialogue: 0,0:19:20.25,0:19:22.47,Default,,0000,0000,0000,,Ähm, Shion?
+Dialogue: 0,0:19:22.47,0:19:27.64,Default,,0000,0000,0000,,Ich habe schweigend zugehört, wie Meister Rimuru\NBeleidigungen an den Kopf geworfen wurden.
+Dialogue: 0,0:19:27.64,0:19:30.55,Default,,0000,0000,0000,,Ich habe mich versucht zurückzuhalten,
+Dialogue: 0,0:19:30.55,0:19:33.34,Default,,0000,0000,0000,,aber das scheint nicht nötig gewesen zu sein.
+Dialogue: 0,0:19:34.98,0:19:35.73,Default,,0000,0000,0000,,Hä?
+Dialogue: 0,0:19:36.31,0:19:37.34,Default,,0000,0000,0000,,Wa…
+Dialogue: 0,0:19:37.34,0:19:37.98,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:19:37.98,0:19:40.35,Default,,0000,0000,0000,,Ich bin deine Gegnerin!
+Dialogue: 0,0:19:41.42,0:19:42.49,Default,,0000,0000,0000,,Ach ja.
+Dialogue: 0,0:19:42.49,0:19:44.77,Default,,0000,0000,0000,,Und das mit bloßen Händen?
+Dialogue: 0,0:19:45.25,0:19:46.79,Default,,0000,0000,0000,,Klingt nach Spaß!
+Dialogue: 0,0:20:15.75,0:20:18.23,Default,,0000,0000,0000,,Kommt Shion damit klar?
+Dialogue: 0,0:20:18.23,0:20:21.98,Default,,0000,0000,0000,,Ohne ihr Schwert einen Gegner\Nim Zweikampf zu bekämpfen …
+Dialogue: 0,0:20:21.98,0:20:24.44,Default,,0000,0000,0000,,Das schafft sie schon, Meister Rimuru.
+Dialogue: 0,0:20:24.44,0:20:27.41,Default,,0000,0000,0000,,Sie ist nach meinem Bruder\Ndie stärkste von uns.
+Dialogue: 0,0:20:27.41,0:20:29.01,Default,,0000,0000,0000,,Ah, echt?
+Dialogue: 0,0:20:30.91,0:20:33.99,Default,,0000,0000,0000,,Mit dieser Sphere hat man\Nimmer alle Hände voll zu tun.
+Dialogue: 0,0:20:33.99,0:20:34.83,Default,,0000,0000,0000,,Grucius.
+Dialogue: 0,0:20:34.83,0:20:35.42,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:35.42,0:20:37.79,Default,,0000,0000,0000,,Du nimmst dir bitte\Ndiesen Menschen zur Brust.
+Dialogue: 0,0:20:37.79,0:20:39.31,Default,,0000,0000,0000,,Verdammt.
+Dialogue: 0,0:20:39.31,0:20:42.44,Default,,0000,0000,0000,,Nur weil ich einen niedrigen Rang\Nunter den Bestienkriegern habe,
+Dialogue: 0,0:20:39.71,0:20:44.22,OrtTypes,,0000,0000,0000,,{\fad(500,550)\pos(320,255)\fs-5\be1\xshad0}Kriegerorden der Bestienmenschen   Die drei Bestienkrieger\N{\fs23}Grucius
+Dialogue: 0,0:20:42.44,0:20:44.49,Default,,0000,0000,0000,,soll ich gegen einen Menschen ran?
+Dialogue: 0,0:20:46.51,0:20:47.76,Default,,0000,0000,0000,,Und hopp.
+Dialogue: 0,0:20:49.62,0:20:50.72,Default,,0000,0000,0000,,Dann spielen wir mal, …
+Dialogue: 0,0:20:51.98,0:20:53.18,Default,,0000,0000,0000,,Menschlein.
+Dialogue: 0,0:20:53.90,0:20:56.19,Default,,0000,0000,0000,,Na, dann wollen wir mal.
+Dialogue: 0,0:21:08.22,0:21:10.47,Default,,0000,0000,0000,,Er hat’s echt drauf, dieser Youm.
+Dialogue: 0,0:21:10.47,0:21:14.00,Default,,0000,0000,0000,,Er scheint diesem Dämonen Grucius\Nebenbürtig im Kampf.
+Dialogue: 0,0:21:14.00,0:21:16.92,Default,,0000,0000,0000,,Ja, es ist ein eindrucksvoller Kampf.
+Dialogue: 0,0:21:16.92,0:21:20.42,Default,,0000,0000,0000,,Er wurde durch das Sondertraining\Nmit Hakuro doch entsprechend abgehärtet!
+Dialogue: 0,0:21:20.42,0:21:24.17,Default,,0000,0000,0000,,Das schafft unser Boss.\NEr ist halt ein Held.
+Dialogue: 0,0:21:28.77,0:21:31.01,Default,,0000,0000,0000,,Dass ich so einen Spaß mit dir habe!
+Dialogue: 0,0:21:32.15,0:21:34.02,Default,,0000,0000,0000,,Unterschätze uns nicht, Bestienmensch!
+Dialogue: 0,0:21:34.02,0:21:36.27,Default,,0000,0000,0000,,Wir zerfetzen den Himmel\Nund zertrümmern die Erde.
+Dialogue: 0,0:21:36.27,0:21:38.06,Default,,0000,0000,0000,,Das ist die Kraft der Dämonen!
+Dialogue: 0,0:21:40.51,0:21:41.98,Default,,0000,0000,0000,,Und ich werde sie dir jetzt zeigen!
+Dialogue: 0,0:21:44.12,0:21:45.82,Default,,0000,0000,0000,,Na, dann zeig mal.
+Dialogue: 0,0:21:45.82,0:21:48.20,Default,,0000,0000,0000,,Dann habe ich noch mehr Spaß!
+Dialogue: 0,0:21:51.84,0:21:56.46,Internal,,0000,0000,0000,,Und so brach umgehend, nachdem\Ndie Delegation aus Jurasania angekommen war,
+Dialogue: 0,0:21:56.46,0:21:59.15,Internal,,0000,0000,0000,,ein heftiger Kampf aus.
+Dialogue: 0,0:22:01.75,0:22:04.92,Internal,,0000,0000,0000,,Und ich war es, der sie angestachelt hatte.
+Dialogue: 0,0:23:36.22,0:23:36.93,NachstesMal,,0000,0000,0000,,Nächstes {\alpha&HFF&\t(210,210,\alpha&H00&)}Mal
+Dialogue: 0,0:23:36.74,0:23:40.21,Default,,0000,0000,0000,,Nächstes Mal: „Handel mit dem\NKönigreich der Bestienmenschen“.
+Dialogue: 0,0:23:37.06,0:23:40.98,NextEpiTitle1,,0000,0000,0000,,{\clip(140,50,165,125)\fs-3\t(1,300,\clip(120,50,325,125))}\hHandel mit dem\h
+Dialogue: 0,0:23:37.31,0:23:40.98,NextEpiTitle2,,0000,0000,0000,,{\fs-3\alpha&HFF&\t(0,120,\alpha&H00&)}K{\alpha&HFF&\t(19,139,\alpha&H00&)}ö{\alpha&HFF&\t(39,159,\alpha&H00&)}n{\alpha&HFF&\t(58,178,\alpha&H00&)}i{\alpha&HFF&\t(78,198,\alpha&H00&)}g{\alpha&HFF&\t(98,218,\alpha&H00&)}r{\alpha&HFF&\t(117,237,\alpha&H00&)}e{\alpha&HFF&\t(137,257,\alpha&H00&)}i{\alpha&HFF&\t(157,277,\alpha&H00&)}c{\alpha&HFF&\t(176,296,\alpha&H00&)}h {\alpha&HFF&\t(196,316,\alpha&H00&)}d{\alpha&HFF&\t(215,335,\alpha&H00&)}e{\alpha&HFF&\t(235,355,\alpha&H00&)}r {\alpha&HFF&\t(255,375,\alpha&H00&)}B{\alpha&HFF&\t(274,394,\alpha&H00&)}e{\alpha&HFF&\t(294,414,\alpha&H00&)}s{\alpha&HFF&\t(314,434,\alpha&H00&)}t{\alpha&HFF&\t(333,453,\alpha&H00&)}i{\alpha&HFF&\t(353,473,\alpha&H00&)}e{\alpha&HFF&\t(372,492,\alpha&H00&)}n{\alpha&HFF&\t(392,512,\alpha&H00&)}m{\alpha&HFF&\t(412,532,\alpha&H00&)}e{\alpha&HFF&\t(431,551,\alpha&H00&)}n{\alpha&HFF&\t(451,571,\alpha&H00&)}s{\alpha&HFF&\t(471,591,\alpha&H00&)}c{\alpha&HFF&\t(490,610,\alpha&H00&)}h{\alpha&HFF&\t(510,630,\alpha&H00&)}e{\alpha&HFF&\t(530,650,\alpha&H00&)}n
